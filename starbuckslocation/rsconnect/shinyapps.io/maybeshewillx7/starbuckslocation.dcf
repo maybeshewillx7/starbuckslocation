@@ -1,0 +1,12 @@
+name: starbuckslocation
+title: starbuckslocation
+username:
+account: maybeshewillx7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1508339
+bundleId: 2607830
+url: https://maybeshewillx7.shinyapps.io/starbuckslocation/
+when: 1574364061.52093
+asMultiple: FALSE
+asStatic: FALSE

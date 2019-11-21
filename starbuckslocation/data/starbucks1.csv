@@ -1,0 +1,646 @@
+"Brand","Store Number","Store Name","Ownership Type","Street Address","City","State/Province","Country","Postcode","Phone Number","Timezone","Longitude","Latitude"
+"Starbucks","7379-1056","Wolf Road","Company Owned","18 Wolf Rd, Crossgates Mall","Albany","NY","US","122052609","(518) 435-9280","GMT-05:00 America/New_York",-73.82,42.71
+"Starbucks","11064-103915","Crossgates Mall","Company Owned","1 Crossgates Mall Road, B231","Albany","NY","US","122035367","518-218-1520","GMT-05:00 America/New_York",-73.85,42.69
+"Starbucks","15207-156777","Target Colonie T-1268","Licensed","1440 Central Ave","Albany","NY","US","122055118","518-489-1112","GMT-05:00 America/New_York",-73.82,42.71
+"Starbucks","7922-92120","North Pearl Street","Company Owned","10 North Pearl St","Albany","NY","US","122072702","518-463-6990","GMT-05:00 America/New_York",-73.75,42.65
+"Starbucks","75393-105057","College St. Rose","Licensed","420 Western Ave, Hilton Garden Inn at Albany Medical Ctr","Albany","NY","US","122031400","518-485-3946","GMT-05:00 America/New_York",-73.79,42.66
+"Starbucks","11275-103630","New Scotland Avenue","Company Owned","62 New Scotland Ave","Albany","NY","US","122083466","518-694-8171","GMT-05:00 America/New_York",-73.78,42.65
+"Starbucks","3503-140887","ALB Concourse B Times Square","Licensed","737 Albany-Shaker Road, Crossgates Mall","Albany","NY","US","122111000","(518) 242-4333","GMT-05:00 America/New_York",-73.81,42.74
+"Teavana","28442-249823","Teavana - Crossgates Mall","Company Owned","1 CROSSGATE MALL RD, #B205A","ALBANY","NY","US","12203","518-218-0245","GMT-05:00 America/New_York",-73.85,42.69
+"Starbucks","11810-104532","Albany Shaker Rd and Wolf Rd","Company Owned","243 Wolf Rd","Albany","NY","US","122051114","518-482-2370","GMT-05:00 America/New_York",-73.8,42.73
+"Starbucks","11194-103976","1244 Western Ave","Company Owned","1244 Western Avenue","Albany","NY","US","122033322","518-591-0372","GMT-05:00 America/New_York",-73.83,42.68
+"Starbucks","7335-1053","Stuyvesant Plaza","Company Owned","1475 Western Avenue, Boulevard Mall","Albany","NY","US","122033520","5184891064","GMT-05:00 America/New_York",-73.84,42.68
+"Teavana","28558-250068","Teavana - Boulevard Mall","Company Owned","1259-A Niagara Falls Blvd., #317","Amherst","NY","US","14226","716-833-3234","GMT-05:00 America/New_York",-78.82,42.99
+"Starbucks","7327-676","Amherst, Niagara Falls Blvd","Company Owned","1703 Niagara Falls Boulevard, The Commons - Buffalo University","Amherst","NY","US","142282705","(716) 836-8720","GMT-05:00 America/New_York",-78.82,43
+"Starbucks","7318-1048","The Commons, SUNY Buffalo","Company Owned","520 Lee Entrance","Amherst","NY","US","142282567","(716) 636-3607","GMT-05:00 America/New_York",-78.79,43
+"Starbucks","76778-109264","Target Boulevard Mall T-1010","Licensed","1575 Niagara Falls Blvd","Amherst","NY","US","142282704","(716) 831-8750","GMT-05:00 America/New_York",-78.82,43
+"Starbucks","7938-95618","Williamsville Place","Company Owned","5395-5495 Sheridan Drive","Amherst","NY","US","142213600","716-839-0580","GMT-05:00 America/New_York",-78.73,42.98
+"Starbucks","79470-97520","Stop & Shop-Amityville #550","Licensed","351 Merrick Rd","Amityville","NY","US","117013420","631-391-0304","GMT-05:00 America/New_York",-73.41,40.67
+"Starbucks","24309-237007","Amityville- Broadway","Company Owned","751-827 Broadway, 200","Amityville","NY","US","11701","","GMT-05:00 America/New_York",-73.43,40.7
+"Starbucks","70085-136616","Target Amsterdam T-2461","Licensed","4930 State Hwy 30, Village Green","Amsterdam","NY","US","120107520","518-770-7180","GMT-05:00 America/New_York",-74.19,42.96
+"Starbucks","7304-1172","Ardsley","Company Owned","716-718 Saw Mill Road","Ardsley","NY","US","105021817","(914) 693-5706","GMT-05:00 America/New_York",-73.85,41.01
+"Starbucks","14840-129334","31-01 Broadway","Company Owned","31-01 Broadway","Astoria","NY","US","111062648","718-777-1305","GMT-05:00 America/New_York",-73.93,40.76
+"Starbucks","22638-223164","Astoria Blvd & 31st St","Company Owned","30-18 Astoria Blvd","Astoria","NY","US","11102","7182781518","GMT-05:00 America/New_York",-73.92,40.77
+"Starbucks","9663-97893","35th Ave and 37th St","Company Owned","3711 35th Avenue","Astoria","NY","US","11106","718-706-0464","GMT-05:00 America/New_York",-73.92,40.76
+"Starbucks","7567-18640","31-44 Steinway Street","Company Owned","31-44 Steinway Street","Astoria","NY","US","111033911","718-274-5700","GMT-05:00 America/New_York",-73.92,40.76
+"Starbucks","7555-14690","31St St & Ditmars Blvd","Company Owned","22-04 31st Street","Astoria","NY","US","111052714","718-626-6004","GMT-05:00 America/New_York",-73.91,40.78
+"Starbucks","79465-104047","Stop & Shop-Babylon #543","Licensed","88 Golding Avenue","Babylon","NY","US","117046203","","GMT-05:00 America/New_York",-73.36,40.71
+"Starbucks","73906-133727","Waldbaums-Baldwin Harbor-#452","Licensed","905 Atlantic Avenue","Baldwin Harbor","NY","US","115104240","516- 867-7301","GMT-05:00 America/New_York",-73.61,40.64
+"Starbucks","76920-135784","Target Batavia T-2382","Licensed","4300 Veterens Memorial Dr, South Shore","Batavia","NY","US","140201258","(585) 300-2045","GMT-05:00 America/New_York",-78.21,43.01
+"Teavana","28680-250157","Teavana - South Shore","Company Owned","1701 Sunrise Hwy., Ste. M65","Bay Shore","NY","US","11706","631-665-2391","GMT-05:00 America/New_York",-73.25,40.74
+"Starbucks","15413-156964","Target Bay Shore T-1148","Licensed","838 Sunrise Hwy","Bay Shore","NY","US","117065908","631-969-8958","GMT-05:00 America/New_York",-73.28,40.73
+"Starbucks","19833-188585","Macys South Shore Mall","Licensed","1702 Sunrise Hwy, The Shoppes at Bayport","Bay Shore","NY","US","11706","631-665-8400","GMT-05:00 America/New_York",-73.24,40.74
+"Starbucks","10284-100403","Bayport","Company Owned","911 Montauk Highway","Bayport","NY","US","117051613","631-472-0151","GMT-05:00 America/New_York",-73.05,40.75
+"Starbucks","7391-1676","215th St. & Northern Blvd","Company Owned","215-29 Northern Blvd.","Bayside","NY","US","113613464","(718) 281-4165","GMT-05:00 America/New_York",-73.77,40.76
+"Starbucks","13450-106937","251-05 Jamaica Avenue","Company Owned","251-05 Jamaica Avenue","Bellerose","NY","US","11426","7183471304","GMT-05:00 America/New_York",-73.71,40.73
+"Starbucks","2782-91102","Bethpage, Stewart Avenue","Company Owned","205 Stewart Ave","Bethpage","NY","US","117145345","516-520-0698","GMT-05:00 America/New_York",-73.48,40.73
+"Starbucks","76580-100173","Target Big Flats T-2158","Licensed","930 Country Rd 64, The Gardens","Big Flats","NY","US","14814","607-796-5910","GMT-05:00 America/New_York",-76.87,42.15
+"Starbucks","10286-100066","Binghamton, Front Street","Company Owned","904 Upper Front Street","Binghamton","NY","US","139051342","607-722-1702","GMT-05:00 America/New_York",-75.9,42.14
+"Starbucks","47138-246688","Binghamton U at Hinman Dining Hall","Licensed","4400 Vestal Parkway East","Binghamton","NY","US","13902","","GMT-05:00 America/New_York",-75.91,42.1
+"Starbucks","7486-6847","Hamburg","Company Owned","3540 McKinley Parkway","Blasdell","NY","US","142192600","716-828-9005","GMT-05:00 America/New_York",-78.81,42.79
+"Starbucks","20136-203441","Bohemia- Veterans Mem Hwy","Company Owned","4180 Veterans Memorial Hwy, Mrs. Green's Market","Bohemia","NY","US","11716","6319811237","GMT-05:00 America/New_York",-73.1,40.78
+"Starbucks","9369-96113","Briarcliff Manor","Company Owned","107 North State Rd","Briarcliff Manor","NY","US","105101444","914-923-0263","GMT-05:00 America/New_York",-73.83,41.15
+"Starbucks","7406-1586","Bridgehampton Village","Company Owned","2488 Montauk Hwy, Twelve Corners Shopping Center","Bridgehampton","NY","US","11932","6315375851","GMT-05:00 America/New_York",-72.3,40.94
+"Starbucks","7315-1049","Twelve Corners","Company Owned","1914 Monroe Avenue","Brighton","NY","US","146181919","585-442-6410","GMT-05:00 America/New_York",-77.56,43.13
+"Starbucks","29721-255066","Eastchester Rd. & Morris Park Ave.","Company Owned","1886 Eastchester Rd.","Bronx","NY","US","10461","6466183964","GMT-05:00 America/New_York",-73.84,40.85
+"Starbucks","29855-255554","Throgs Neck Shopping Center","Company Owned","815 E Hutchinson River Pkwy, 845","Bronx","NY","US","10465","9292464022","GMT-05:00 America/New_York",-73.84,40.82
+"Starbucks","25446-241029","161st & Morris Ave","Company Owned","260 East 161st Street","Bronx","NY","US","10451","6468599582","GMT-05:00 America/New_York",-73.92,40.83
+"Starbucks","23265-228866","230th & Broadway","Company Owned","171 W 230th St","Bronx","NY","US","10463","646-455-9846","GMT-05:00 America/New_York",-73.91,40.88
+"Starbucks","17829-138153","Manhattan College - Thomas Hall Stu","Licensed","4513 Manhattan College Pkwy","Bronx","NY","US","104714004","","GMT-05:00 America/New_York",-73.9,40.89
+"Starbucks","3863-141165","Target Bronx Terminal T-2475","Licensed","700 Exterior St, Fordham Plaza","Bronx","NY","US","104512042","(718) 401-5651","GMT-05:00 America/New_York",-73.93,40.82
+"Starbucks","19872-189465","Fordham Plaza","Company Owned","440 East Fordham Road","Bronx","NY","US","10458","(718) 220-4920","GMT-05:00 America/New_York",-73.89,40.86
+"Starbucks","7745-26828","Metropolitan Ave & Wood Ave","Company Owned","1385 Metropolitan Avenue","Bronx","NY","US","104627403","718-319-1702","GMT-05:00 America/New_York",-73.86,40.84
+"Starbucks","76239-88982","Target Riverdale T-1798","Licensed","40 W 225th St","Bronx","NY","US","104637016","","GMT-05:00 America/New_York",-73.91,40.87
+"Starbucks","11931-106884","235th & Johnson Ave","Company Owned","3503 Johnson Avenue","Bronx","NY","US","104631602","718-543-2348","GMT-05:00 America/New_York",-73.91,40.89
+"Starbucks","21895-215765","Target Bronx T-2811","Licensed","815 Hutchinson River Pkwy","Bronx","NY","US","10465","718-536-2689","GMT-05:00 America/New_York",-73.84,40.82
+"Starbucks","9282-95649","225th & Kingsbridge Plaza","Company Owned","50 W. 225th Street, Bldg. K1","Bronx","NY","US","104681128","718-561-3749","GMT-05:00 America/New_York",-73.91,40.87
+"Starbucks","13535-108268","Eastchester Rd & Waters Pl","Company Owned","1728 Eastchester Road","Bronx","NY","US","104612322","718-239-4931","GMT-05:00 America/New_York",-73.84,40.85
+"Starbucks","803-2021","Bronxville","Company Owned","29 Park Place","Bronxville","NY","US","107084106","914-771-9103","GMT-05:00 America/New_York",-73.83,40.94
+"Starbucks","15465-147769","LIU CW Post","Licensed","720 Northern Blvd","Brookfield","NY","US","115481319","5162992473","GMT-05:00 America/New_York",-73.62,40.81
+"Starbucks","2864-92970","Bay Ridge Pkwy & 3rd Ave","Company Owned","7419 3rd Avenue","Brooklyn","NY","US","112092407","718-836-3882","GMT-05:00 America/New_York",-74.03,40.63
+"Starbucks","76878-100172","Target Brooklyn College","Licensed","2201 Nostrand Ave","Brooklyn","NY","US","112103036","718-637-5005","GMT-05:00 America/New_York",-73.95,40.63
+"Starbucks","76240-90427","Target Atlantic Terminal T-1849","Licensed","139 Flatbush Ave","Brooklyn","NY","US","112171450","718-290-1109","GMT-05:00 America/New_York",-73.98,40.68
+"Starbucks","21352-210984","395 Flatbush Ave Extension","Company Owned","395 Flatbush Ave Extension, D","Brooklyn","NY","US","11201","7188588070","GMT-05:00 America/New_York",-73.98,40.69
+"Starbucks","22560-214868","Kings Plaza Mall","Company Owned","5296 Kings Plaza, Unit 0K2","Brooklyn","NY","US","11234","9292712767","GMT-05:00 America/New_York",-73.92,40.61
+"Starbucks","23836-232524","394 Myrtle Ave","Company Owned","394 Myrtle Ave","Brooklyn","NY","US","11205","3475870422","GMT-05:00 America/New_York",-73.97,40.69
+"Starbucks","16153-155504","Macy's-Kings Plaza #6","Licensed","5400 Avenue U","Brooklyn","NY","US","112345204","718-253-3100","GMT-05:00 America/New_York",-73.92,40.61
+"Starbucks","7595-14074","Court St & Dean St","Company Owned","167 Court Street","Brooklyn","NY","US","112016422","718-222-9729","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","8131-96060","Cropsey Ave & Hart Place","Company Owned","3035 Cropsey Ave","Brooklyn","NY","US","112242727","718-372-3573","GMT-05:00 America/New_York",-73.99,40.58
+"Starbucks","7358-1369","Court St & Joralemon","Company Owned","50 Court Street","Brooklyn","NY","US","112014859","(718) 855-0369","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","11807-106578","Smith St & Wyckoff St","Company Owned","164 Smith Street","Brooklyn","NY","US","112016303","718-422-0178","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","19554-200744","164 Park Place","Company Owned","164 Park Place","Brooklyn","NY","US","11217","718-623-9419","GMT-05:00 America/New_York",-73.97,40.68
+"Starbucks","17224-171944","1417 Kings Highway","Company Owned","1417 Kings Highway","Brooklyn","NY","US","112292003","718-627-1016","GMT-05:00 America/New_York",-73.96,40.61
+"Starbucks","13983-114731","1971 86th Street","Company Owned","1971 86th Street, Poly Tech Institute","Brooklyn","NY","US","112143103","718-266-1503","GMT-05:00 America/New_York",-74,40.61
+"Starbucks","11809-106577","6 Metro Tech at Jay Street","Company Owned","6 Metro Tech","Brooklyn","NY","US","112013840","718-522-2396","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","23266-228865","Franklin Ave & Eastern Pkwy","Company Owned","341 Eastern Pkwy","Brooklyn","NY","US","11238","7187780140","GMT-05:00 America/New_York",-73.96,40.67
+"Starbucks","11808-106389","514 86th St","Company Owned","514 86th Street","Brooklyn","NY","US","112095211","718-491-1340","GMT-05:00 America/New_York",-74.03,40.62
+"Starbucks","9721-97945","33-42 Hillel Place","Company Owned","33-42 Hillel Place","Brooklyn","NY","US","112102902","718-338-2489","GMT-05:00 America/New_York",-73.95,40.63
+"Starbucks","7921-91620","65th St & 18th Ave","Company Owned","6423 18th Avenue","Brooklyn","NY","US","112043710","718-234-7160","GMT-05:00 America/New_York",-73.99,40.62
+"Starbucks","23267-228864","Caesar's Bay Shopping Center","Company Owned","8973 Bay Parkway","Brooklyn","NY","US","11214","7182651069","GMT-05:00 America/New_York",-74,40.6
+"Starbucks","17727-179364","Barclays Center","Company Owned","620 Atlantic Avenue, Fulton Mall","Brooklyn","NY","US","11217","7182300859","GMT-05:00 America/New_York",-73.98,40.68
+"Starbucks","16608-169505","348 Fulton Street","Company Owned","348 Fulton Street","Brooklyn","NY","US","112015109","718 4881719","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","28114-237585","Target Brooklyn T-2850","Licensed","445 Gold St","Brooklyn","NY","US","11201","929-397-2864","GMT-05:00 America/New_York",-73.98,40.69
+"Starbucks","25334-232868","Lam Group @ Sheraton Brooklyn","Licensed","228 Duffield st","Brooklyn","NY","US","11201","718-855-1900","GMT-05:00 America/New_York",-73.98,40.69
+"Starbucks","9368-96106","Main St & Front St","Company Owned","67 Front Street","Brooklyn","NY","US","112011001","718-855-0856","GMT-05:00 America/New_York",-73.99,40.7
+"Starbucks","23591-231287","Flatbush Ave & Kings Hwy","Company Owned","1927 Flatbush Ave, Atlantic Terminal","Brooklyn","NY","US","11234","3475330430","GMT-05:00 America/New_York",-73.94,40.62
+"Starbucks","7704-13119","Flatbush Ave Atlantic Terminal","Company Owned","139 Flatbush Ave, N/A","Brooklyn","NY","US","112171450","718-789-3418","GMT-05:00 America/New_York",-73.98,40.68
+"Starbucks","7646-27128","3rd Ave & 92nd St","Company Owned","9202 Third Avenue","Brooklyn","NY","US","112096812","718-492-5331","GMT-05:00 America/New_York",-74.03,40.62
+"Starbucks","844-169565","134 Montague Street","Company Owned","134 Montague Street","Brooklyn","NY","US","112013533","7182430455","GMT-05:00 America/New_York",-73.99,40.69
+"Starbucks","24401-237441","Gold St & Johnson Street","Company Owned","309 Gold St","Brooklyn","NY","US","11201","(347) 997-2633","GMT-05:00 America/New_York",-73.98,40.69
+"Starbucks","13262-107296","910 Manhattan Avenue","Company Owned","910 Manhattan Avenue","Brooklyn","NY","US","112222107","718-609-0467","GMT-05:00 America/New_York",-73.95,40.73
+"Starbucks","3438-93385","607 Brighton Beach Ave","Company Owned","607 Brighton Beach Avenue","Brooklyn","NY","US","112356405","718-934-3211","GMT-05:00 America/New_York",-73.96,40.58
+"Starbucks","22596-222524","154 N Seventh St","Company Owned","154 N Seventh St","Brooklyn","NY","US","11211","7183840152","GMT-05:00 America/New_York",-73.96,40.72
+"Starbucks","18858-191484","Union Ave & Ainslie St","Company Owned","405-409 Union Avenue","Brooklyn","NY","US","11211","7183846936","GMT-05:00 America/New_York",-73.95,40.71
+"Starbucks","7441-1994","164 7th Avenue","Company Owned","166 7th Avenue","Brooklyn","NY","US","112152222","718-369-3098","GMT-05:00 America/New_York",-73.98,40.67
+"Starbucks","15847-160724","Target Gateway T-1401","Licensed","519 Gateway Dr","Brooklyn","NY","US","112392801","718-235-6032","GMT-05:00 America/New_York",-73.87,40.65
+"Starbucks","29856-255547","7th Ave and 9th St","Company Owned","444 Ninth St.","Brooklyn","NY","US","11215","9292148871","GMT-05:00 America/New_York",-73.98,40.67
+"Starbucks","7381-1628","Elmwood Avenue","Company Owned","933 Elmwood Avenue","Buffalo","NY","US","142221211","(716) 882-5440","GMT-05:00 America/New_York",-78.88,42.92
+"Starbucks","7799-63000","Delaware & Kenmore","Company Owned","2730 Delaware Avenue","Buffalo","NY","US","142161146","716-877-3800","GMT-05:00 America/New_York",-78.87,42.96
+"Starbucks","29171-154526","Hyatt Buffalo","Licensed","2 Fountain Plaza, Walden Galleria","Buffalo","NY","US","142022220","716-856-1234","GMT-05:00 America/New_York",-78.87,42.89
+"Teavana","28439-249800","Teavana - Walden Galleria","Company Owned","1 GALLERIA DRIVE, SPACE# L 117","BUFFALO","NY","US","14225","716-685-3100","GMT-05:00 America/New_York",-78.76,42.92
+"Starbucks","7448-6486","235 Delaware Ave","Company Owned","235 Delaware Avenue, Parkway Plaza","Buffalo","NY","US","142022008","716-853-2356","GMT-05:00 America/New_York",-78.88,42.89
+"Starbucks","13353-105357","Canadaigua","Company Owned","10 Muar St.","Canandaigua","NY","US","144242321","585-394-6970","GMT-05:00 America/New_York",-77.26,42.88
+"Starbucks","70083-139594","NY Chittenango Travel Plaza","Licensed","2188 Tag Rd, Putnam Plaza","Canastota","NY","US","130324561","315-687-0015","GMT-05:00 America/New_York",-75.84,43.1
+"Starbucks","7681-16774","Carmel, Route 6","Company Owned","1876 Route 6","Carmel","NY","US","105122355","845-225-6900","GMT-05:00 America/New_York",-73.67,41.41
+"Starbucks","11536-104610","Rockaway Tpke, Cedarhurst","Company Owned","316 Rockaway Tpke.","Cedarhurst","NY","US","115161116","516-371-0238","GMT-05:00 America/New_York",-73.74,40.63
+"Starbucks","15617-162705","Target South Setauket T-1191","Licensed","255 Pond Path","Centereach","NY","US","117202007","631-580-5356","GMT-05:00 America/New_York",-73.1,40.88
+"Starbucks","7614-28547","Centereach","Company Owned","1942 Middle Country Road","Centereach","NY","US","117203535","(631) 585-8462","GMT-05:00 America/New_York",-73.08,40.86
+"Starbucks","76582-96831","Target Central Islip T-2102","Licensed","160 N Research Pl, Woodbury Common Premium Outlet","Central Islip","NY","US","117224458","631-297-2011","GMT-05:00 America/New_York",-73.2,40.77
+"Starbucks","7518-12871","Woodbury Commons","Company Owned","400 Evergreen Ct, Route 22","Central Valley","NY","US","109176700","845-928-4744","GMT-05:00 America/New_York",-74.13,41.32
+"Starbucks","7326-597","Chappaqua","Company Owned","2 South Greeley Avenue","Chappaqua","NY","US","105143311","(914) 238-2268","GMT-05:00 America/New_York",-73.77,41.16
+"Starbucks","27530-244211","Target Cheektowaga T- 1014","Licensed","1750 Walden Avenue","Cheektowaga","NY","US","14225","716-896-0493","GMT-05:00 America/New_York",-78.77,42.91
+"Starbucks","7949-95619","Walden & Anderson","Company Owned","1775 Walden Avenue, 500","Cheektowaga","NY","US","142254920","716-895-0380","GMT-05:00 America/New_York",-78.77,42.91
+"Starbucks","7879-194264","Walden Galleria","Company Owned","1 Walden Galleria, K-04","Cheektowaga","NY","US","142255408","7166850791","GMT-05:00 America/New_York",-78.76,42.91
+"Starbucks","23917-234085","Cheektowaga","Company Owned","4255 Genesee St., Suite 100","Cheektowaga","NY","US","14225","17162630910","GMT-05:00 America/New_York",-78.73,42.93
+"Starbucks","76763-100175","Target Cicero T-2295","Licensed","8061 Brewerton Rd","Cicero","NY","US","130398061","315-452-1321","GMT-05:00 America/New_York",-76.12,43.16
+"Starbucks","17376-180584","Target Clay T-1475","Licensed","3857 State Route 31","Clay","NY","US","13041","585-652-5157","GMT-05:00 America/New_York",-76.23,43.19
+"Starbucks","7664-233944","Clifton Park Center","Company Owned","309 Clifton Park Center Road, Store #1","Clifton Park","NY","US","12065","5183735794","GMT-05:00 America/New_York",-73.78,42.86
+"Starbucks","24840-229888","Price Chopper - Clifton Park  #112","Licensed","15 Park Ave","Clifton Park","NY","US","12065","418-383-6780","GMT-05:00 America/New_York",-73.78,42.86
+"Starbucks","19911-202866","Target Clifton Park T-1477","Licensed","26 Crossing Blvd","Clifton Park","NY","US","12065","518-371-6520","GMT-05:00 America/New_York",-73.77,42.86
+"Starbucks","75888-103954","NY Clifton Springs Travel Plaza","Licensed","3236 Route 96","Clifton Springs","NY","US","144329505","315-462-9755","GMT-05:00 America/New_York",-77.17,42.97
+"Starbucks","2783-88801","Commack, Crooked Hill","Company Owned","125 Crooked Hill Road","Commack","NY","US","117255429","631-858-0167","GMT-05:00 America/New_York",-73.29,40.81
+"Starbucks","11811-104574","Jericho Tpke, Commack","Company Owned","2055A Jericho Tpke","Commack","NY","US","117253007","631-543-0140","GMT-05:00 America/New_York",-73.27,40.85
+"Starbucks","15620-162704","Target Commack T-1108","Licensed","98 Veterans Memorial Hwy","Commack","NY","US","117253432","631-462-8969","GMT-05:00 America/New_York",-73.29,40.84
+"Starbucks","27517-243605","Target Commack T-1387","Licensed","4 Henry Street","Commack","NY","US","11725","631-461-5507","GMT-05:00 America/New_York",-73.29,40.81
+"Starbucks","20102-145447","Target Copiague T-1147","Licensed","1149 Sunrise Hwy","Copiague","NY","US","117261330","631-841-5056","GMT-05:00 America/New_York",-73.41,40.69
+"Starbucks","20631-202184","Cortlandt Manor","Company Owned","3025 East Main Street","Cortlandt Manor","NY","US","10547","8455871881","GMT-05:00 America/New_York",-73.88,41.31
+"Starbucks","7455-6446","Deer Park, Rt. 231","Company Owned","1932 Deer Park Avenue, The Arches","Deer Park","NY","US","117293333","631-243-3881","GMT-05:00 America/New_York",-73.33,40.76
+"Starbucks","14368-112365","Tanger Outlets, Deer Park","Company Owned","529 The Arches Circle","Deer Park","NY","US","117297061","631-242-0802","GMT-05:00 America/New_York",-73.3,40.76
+"Starbucks","76673-104724","Target - Cheektowaga/Depew T-2191","Licensed","4920 Transit Rd","Depew","NY","US","140434625","716-608-2020","GMT-05:00 America/New_York",-78.7,42.88
+"Starbucks","7665-42979","Depew, Transit Road","Company Owned","4770 Transit Road","Depew","NY","US","140439700","716-656-9651","GMT-05:00 America/New_York",-78.7,42.87
+"Starbucks","11973-100711","Dobbs Ferry","Company Owned","45 Stanley Avenue, Tops Transit Commons Shopping Ctr.","Dobbs Ferry","NY","US","105223405","9146745940","GMT-05:00 America/New_York",-73.86,41
+"Starbucks","10750-102304","East Amherst","Company Owned","9660 Transit Road, 101","East Amherst","NY","US","140511484","7166361794","GMT-05:00 America/New_York",-78.7,43.03
+"Starbucks","22262-214484","Columbia Turnpike, East Greenbush","Company Owned","600 Columbia Turnpike","east greenbush","NY","US","12061","5184774387","GMT-05:00 America/New_York",-73.71,42.6
+"Starbucks","7884-46539","East Hampton Village","Company Owned","39 Main Street","East Hampton","NY","US","119372701","6313298645","GMT-05:00 America/New_York",-72.19,40.96
+"Starbucks","10329-100400","E. Northport, Larkfield Rd","Company Owned","506 Larkfield Rd","East Northport","NY","US","117314202","631-266-1879","GMT-05:00 America/New_York",-73.32,40.86
+"Starbucks","10045-99397","East Northport, Rte. 25","Company Owned","3011 Jericho Tpke.","East Northport","NY","US","117316215","631-499-0258","GMT-05:00 America/New_York",-73.32,40.84
+"Starbucks","11974-106157","East Setauket, Nesconset HIghway","Company Owned","4020 Nesconset Highway, Queens Center Mall","East Setauket","NY","US","117333306","631-642-0263","GMT-05:00 America/New_York",-73.07,40.9
+"Starbucks","2787-35599","Queens Center Mall","Company Owned","90-15 Queens Boulevard, K203, Elmhurst Plaza","Elmhurst","NY","US","113734900","718-699-7856","GMT-05:00 America/New_York",-73.87,40.73
+"Starbucks","17202-177784","Queens Blvd & Broadway","Company Owned","86-51 Broadway, Queens Center","Elmhurst","NY","US","11373","718 5652021","GMT-05:00 America/New_York",-73.88,40.74
+"Teavana","28556-250052","Teavana - Queens Center","Company Owned","90-15 Queens Blvd., Spc. #2007","Elmhurst","NY","US","11373","718-699-1201","GMT-05:00 America/New_York",-73.87,40.73
+"Starbucks","13133-113948","Target Queens Place T-1344","Licensed","8801 Queens Blvd","Elmhurst","NY","US","113734449","718-760-5656","GMT-05:00 America/New_York",-73.87,40.74
+"Starbucks","28125-248127","Elmira College","Licensed","1 Park Pl","Elmira","NY","US","14901","6077351875","GMT-05:00 America/New_York",-76.82,42.1
+"Starbucks","47681-259008","Target Elmont T-3237","Licensed","1730 HEMPSTEAD TPK","ELMONT","NY","US","11003","","GMT-05:00 America/New_York",-73.7,40.71
+"Starbucks","2788-3042","Perinton Square Mall","Company Owned","6720 Pittsford-Palmyra Rd","Fairport","NY","US","144503342","585-223-4240","GMT-05:00 America/New_York",-77.44,43.07
+"Starbucks","17890-171967","Target Fairport T-1195","Licensed","2161 Nine Mile Point Rd","Fairport","NY","US","144508509","585-377-0360","GMT-05:00 America/New_York",-77.44,43.13
+"Starbucks","7397-1675","Farmingdale","Company Owned","10 Michael Ave","Farmingdale","NY","US","117353920","631-454-4550","GMT-05:00 America/New_York",-73.42,40.73
+"Starbucks","27338-238540","The Plaza at Farmingdale Train","Licensed","121 Secatogue Ave","Farmingdale","NY","US","11735","5167550007","GMT-05:00 America/New_York",-73.44,40.74
+"Starbucks","76137-90418","Target Farmingdale T-1866","Licensed","2121 Broadhollow Rd","Farmingdale","NY","US","117351009","","GMT-05:00 America/New_York",-73.42,40.75
+"Starbucks","9485-97017","Fayetteville, Syracuse","Company Owned","217 West Genesee Street, Ransley Square","Fayetteville","NY","US","130661355","315-637-3656","GMT-05:00 America/New_York",-76.02,43.03
+"Starbucks","10047-98475","Fishkill, Ransley Square","Company Owned","11 Merrit Boulevard (Route 9)","Fishkill","NY","US","125242947","845-897-1201","GMT-05:00 America/New_York",-73.89,41.53
+"Starbucks","76351-97134","Target Flushing T-1150","Licensed","13505 20th Ave","Flushing","NY","US","113562446","718-661-4346","GMT-05:00 America/New_York",-73.83,40.78
+"Starbucks","7539-12698","Main St & 41St Ave","Company Owned","41-02 Main Street","Flushing","NY","US","113553133","718-358-9355","GMT-05:00 America/New_York",-73.83,40.76
+"Starbucks","9077-145446","Target Flushing T-2451","Licensed","40-24 College Point Blvd","Flushing","NY","US","113545105","347-532-9942","GMT-05:00 America/New_York",-73.83,40.76
+"Starbucks","23593-231144","3805 Main St","Company Owned","3805 Main St","Flushing","NY","US","11354","718-445-0354","GMT-05:00 America/New_York",-73.83,40.76
+"Starbucks","7217-623","7000 Austin Street","Company Owned","7000 Austin Street","Forest Hills","NY","US","113751022","718-268-4719","GMT-05:00 America/New_York",-73.85,40.72
+"Starbucks","7897-82740","Queens Blvd & 67th Rd","Company Owned","10102 Queens Blvd.","Forest Hills","NY","US","113752749","718-459-6923","GMT-05:00 America/New_York",-73.85,40.73
+"Starbucks","7349-910","107-12 Continental Avenue","Company Owned","107-12 Continental Avenue","Forest Hills","NY","US","11375","(718) 793-4057","GMT-05:00 America/New_York",-73.84,40.72
+"Starbucks","73708-104729","Stop & Shop-Forest Hills #539","Licensed","8989 Union Turnpike","Forest Hills","NY","US","11375","718-846-2310","GMT-05:00 America/New_York",-73.86,40.71
+"Starbucks","47127-248044","AFFES @ Fort Drum","Licensed","10730 Memorial Dr # B","Fort Drum","NY","US","13602","315-773-0065","GMT-05:00 America/New_York",-75.81,44.05
+"Starbucks","7642-32719","Franklin Avenue, Franklin Square","Company Owned","640 Franklin Avenue","Franklin Square","NY","US","110101108","516-256-5668","GMT-05:00 America/New_York",-73.69,40.69
+"Starbucks","75353-102275","SUNY/Fredonia-Cranston Hall","Licensed","Old Main Drive, SUNY Fredonia - University Commons","Fredonia","NY","US","140630286","716-673-3417","GMT-05:00 America/New_York",-79.34,42.45
+"Starbucks","47676-259007","Target Freeport T-3236","Licensed","248 SUNRISE HWY","FREEPORT","NY","US","11520","516-544-6771","GMT-05:00 America/New_York",-73.59,40.66
+"Starbucks","7296-1042","188th Street & 64th Ave","Company Owned","61-51 188th Street","Fresh Meadows","NY","US","113652712","(718) 264-0658","GMT-05:00 America/New_York",-73.79,40.74
+"Starbucks","7627-20460","Village of Garden City","Company Owned","184 7th St","Garden City","NY","US","115305725","516-741-8295","GMT-05:00 America/New_York",-73.63,40.73
+"Starbucks","18012-182204","Westbury Gallery","Company Owned","914 Old Country Road, Roosevelt Field","Garden City","NY","US","11530","5162220714","GMT-05:00 America/New_York",-73.61,40.74
+"Teavana","28429-249732","Teavana - Roosevelt Field","Company Owned","630 OLD COUNTRY RD., #1077, Roosevelt Field Mall","Garden City","NY","US","11530","516-248-1276","GMT-05:00 America/New_York",-73.62,40.74
+"Starbucks","7746-54939","Roosevelt Field Mall-Lower Level","Company Owned","630 Old Country Rd, Stewart Square","Garden City","NY","US","115303401","(516) 294-9817","GMT-05:00 America/New_York",-73.61,40.74
+"Starbucks","14770-132264","Garden City, Stewart Avenue","Company Owned","581 Stewart Avenue","Garden City","NY","US","115304724","516-683-1537","GMT-05:00 America/New_York",-73.61,40.73
+"Starbucks","13154-146884","SUNY Geneseo MacVittle College Unio","Licensed","1 College Circle","Geneseo","NY","US","144541401","15852455028","GMT-05:00 America/New_York",-77.82,42.8
+"Starbucks","832-2026","Glen Cove","Company Owned","5 School Street","Glen Cove","NY","US","115422540","516-759-5898","GMT-05:00 America/New_York",-73.63,40.87
+"Starbucks","10514-101367","Sea Cliff, Glen Cove Ave","Company Owned","202 Glen Cove Ave, Suite A","Glen Cove","NY","US","115424189","516-759-0853","GMT-05:00 America/New_York",-73.63,40.85
+"Starbucks","11812-106572","Shops at Atlas Park","Company Owned","8000 Cooper Avenue","Glendale","NY","US","113857734","718-416-1521","GMT-05:00 America/New_York",-73.87,40.71
+"Starbucks","24895-234264","Price Chopper - Glenmont #196","Licensed","329 Glenmont Rd","Glenmont","NY","US","12077","518-433-4700","GMT-05:00 America/New_York",-73.79,42.6
+"Starbucks","18117-171969","Target Glenville T-2805","Licensed","204 Saratoga Rd","Glenville","NY","US","12302","518-387-3311","GMT-05:00 America/New_York",-73.93,42.87
+"Starbucks","7464-6466","55 Northern Blvd","Company Owned","55 Northern Boulevard","Great Neck","NY","US","110214027","516-498-9585","GMT-05:00 America/New_York",-73.73,40.77
+"Starbucks","884-203464","Great Neck - The Gardens","Company Owned","6 Great Neck Road","Great Neck","NY","US","11021","516 4874944","GMT-05:00 America/New_York",-73.73,40.79
+"Starbucks","13451-106956","Center Place Drive","Company Owned","100 Center Place Drive, Erie Canal Commons","Greece","NY","US","146154011","585-865-6960","GMT-05:00 America/New_York",-77.67,43.21
+"Starbucks","9960-98404","South Greece, Long Pond & Ridgeway","Company Owned","2590 Ridgeway Avenue","Greece","NY","US","146264116","585-723-6050","GMT-05:00 America/New_York",-77.7,43.19
+"Starbucks","7331-918","Wheatly Plaza-Greenvale","Company Owned","132 Wheatley Plaza, Hamilton Square","Greenvale","NY","US","115481316","(516) 484-9146","GMT-05:00 America/New_York",-73.63,40.81
+"Starbucks","19998-178064","Guilderland, NY","Company Owned","2080 Western Ave., Hampton Bays Town Center","Guilderland","NY","US","12084","5184520474","GMT-05:00 America/New_York",-73.89,42.7
+"Starbucks","7718-59500","Hampton Bays","Company Owned","24 Montauk Highway, New Baltimore Travel Plaza","Hampton Bays","NY","US","11946","6317287530","GMT-05:00 America/New_York",-72.52,40.88
+"Starbucks","72431-5059","New Baltimore Travel Plaza","Licensed","Mile Marker 127 South-NY State Thruway, Metro North Hartsdale Station","Hannacroix","NY","US","12087","518-756-3000","GMT-05:00 America/New_York",-73.9,42.41
+"Starbucks","7431-999","Hartsdale Train Station","Company Owned","223 E Hartsdale Ave","Hartsdale","NY","US","105303502","914-722-2720","GMT-05:00 America/New_York",-73.8,41.01
+"Starbucks","27437-247551","Hartsdale, South Central Ave","Company Owned","46 South Central Avenue","Hartsdale","NY","US","10530","9143648437","GMT-05:00 America/New_York",-73.8,41.02
+"Starbucks","75887-103951","NY Ardsley Travel Plaza","Licensed","mile post 6N NY Thru way","Hastings on Hudson","NY","US","10706","914-478-7681","GMT-05:00 America/New_York",-73.87,40.99
+"Starbucks","7813-74601","Hauppauge - Route 111","Company Owned","513 Route 111","Hauppauge","NY","US","11788","631-724-0928","GMT-05:00 America/New_York",-73.2,40.83
+"Starbucks","7360-1050","Henrietta Plaza","Company Owned","1100 Jefferson Road","Henrietta","NY","US","146233135","585-424-2190","GMT-05:00 America/New_York",-77.61,43.09
+"Starbucks","28870-251724","Henrietta, Market Square","Company Owned","620 Jefferson Road","Henrietta","NY","US","14623","5854693740","GMT-05:00 America/New_York",-77.63,43.09
+"Starbucks","7395-1208","Hewlett","Company Owned","1344 Broadway","Hewlett","NY","US","115571356","(516) 295-3330","GMT-05:00 America/New_York",-73.7,40.64
+"Starbucks","14784-131067","Hicksville","Company Owned","180 W Old Country Road","Hicksville","NY","US","11801","516-822-2035","GMT-05:00 America/New_York",-73.53,40.76
+"Starbucks","76284-90419","Target Hicksville T-1855","Licensed","358 Broadway Mall","Hicksville","NY","US","118012709","516-806-2096","GMT-05:00 America/New_York",-73.53,40.77
+"Starbucks","7492-8546","157-41 Cross Bay Blvd.","Company Owned","157-41 Cross Bay Blvd.","Howard Beach","NY","US","114142748","718-641-9332","GMT-05:00 America/New_York",-73.84,40.66
+"Starbucks","855-2052","Huntington","Company Owned","1 Wall Street","Huntington","NY","US","117432046","631-421-3459","GMT-05:00 America/New_York",-73.43,40.87
+"Starbucks","20765-207753","Target Huntington T-2844","Licensed","124 E Jericho Turnpike","Huntington","NY","US","11746","631-760-3271","GMT-05:00 America/New_York",-73.41,40.83
+"Starbucks","7722-194184","Walt Whitman Mall, LI","Company Owned","160 Walt Whitman Road, tbd, Walt Whitman","Huntington Station","NY","US","117464130","6314231392","GMT-05:00 America/New_York",-73.41,40.82
+"Teavana","28603-249863","Teavana - Walt Whitman","Company Owned","160 Walt Whitman Rd., #1017","Huntington Station","NY","US","11746","631-423-3787","GMT-05:00 America/New_York",-73.41,40.83
+"Starbucks","76676-104742","Target - Irondequoit T-2211","Licensed","50 Medley Centre Pkwy","Irondequoit","NY","US","146222466","585-797-0089","GMT-05:00 America/New_York",-77.58,43.2
+"Starbucks","8840-95307","Island Park","Company Owned","4507 Austin Blvd","Island Park","NY","US","115582228","516-432-0416","GMT-05:00 America/New_York",-73.65,40.6
+"Starbucks","23737-231984","Islandia, NY","Company Owned","3701 Expressway Drive N","Islandia","NY","US","11749","6315533706","GMT-05:00 America/New_York",-73.16,40.81
+"Starbucks","7651-39320","Islip Village","Company Owned","455 Main St, Seneca Place on The Commons","Islip","NY","US","117513536","6315814273","GMT-05:00 America/New_York",-73.21,40.73
+"Starbucks","10395-100795","Ithaca on The Commons","Company Owned","130 E. Seneca Street","Ithaca","NY","US","148504356","607-256-0452","GMT-05:00 America/New_York",-76.5,42.44
+"Starbucks","16922-176606","Target Ithaca T-1508","Licensed","40 Catherwood Rd","Ithaca","NY","US","148501056","607-257-3387","GMT-05:00 America/New_York",-76.49,42.48
+"Starbucks","11932-106159","College Avenue, Ithaca","Company Owned","402 College Avenue, Suite 402","Ithaca","NY","US","148506708","607-256-0231","GMT-05:00 America/New_York",-76.49,42.44
+"Starbucks","14317-120366","78-25 37th Avenue","Company Owned","78-25 37th Avenue","Jackson Heights","NY","US","113726641","718-457-0875","GMT-05:00 America/New_York",-73.89,40.75
+"Starbucks","75803-97897","JFK - T8 American Air","Licensed","51 W. Courtyard","Jamaica","NY","US","11430","","GMT-05:00 America/New_York",-73.79,40.65
+"Starbucks","70026-105310","JFK T7 Gate 7","Licensed","NY JFK International Airport, Terminal 7, Gate 7","Jamaica","NY","US","11430","718-425-5679","GMT-05:00 America/New_York",-73.78,40.65
+"Starbucks","3928-138154","St. John's University - Queens","Licensed","8000 Utopia Pkwy","Jamaica","NY","US","11432","718-990-1716","GMT-05:00 America/New_York",-73.8,40.72
+"Starbucks","75953-105307","JFK T1 pre security food court","Licensed","NY JFK INternational Airport","jamaica","NY","US","11430","718-656-8610","GMT-05:00 America/New_York",-73.79,40.64
+"Starbucks","70059-105309","JFK T7 Pre Security Ticketing","Licensed","JFK Airport Terminal 7 British Airways","Jamaica","NY","US","11430","718-656-8010","GMT-05:00 America/New_York",-73.78,40.65
+"Starbucks","25116-238021","JFK - T1 Evenings","Licensed","HMS Host - Terminal one JFK Airport Buil","Jamaica","NY","US","11430","718-751-2892","GMT-05:00 America/New_York",-73.79,40.64
+"Starbucks","21389-212725","JFK T5 Gate 22","Licensed","JFK International Airport","Jamaica","NY","US","11430","718-917-0436","GMT-05:00 America/New_York",-73.79,40.64
+"Starbucks","25685-242005","89th Ave & Sutphin Blvd.","Company Owned","8900 Sutphin Blvd.","Jamaica","NY","US","11435","3472331463","GMT-05:00 America/New_York",-73.81,40.7
+"Starbucks","18646-191304","JFK T8 North","Licensed","JFK Airport","Jamaica","NY","US","11430","718-553-2151","GMT-05:00 America/New_York",-73.79,40.64
+"Starbucks","2953-93286","Jamestown","Company Owned","944 Fairmount Avenue","Jamestown","NY","US","147012453","716-664-0967","GMT-05:00 America/New_York",-79.29,42.1
+"Starbucks","7235-643","Jericho","Company Owned","475 North Broadway","Jericho","NY","US","117532106","(516) 433-4611","GMT-05:00 America/New_York",-73.53,40.79
+"Starbucks","11933-106885","118-24 Queens Blvd","Company Owned","118-24 Queens Blvd","Kew Gardens","NY","US","11415","718 261-4246","GMT-05:00 America/New_York",-73.83,40.71
+"Starbucks","10515-100690","Kingston, Massa Drive","Company Owned","39 Massa Drive","Kingston","NY","US","124018107","845-336-5304","GMT-05:00 America/New_York",-73.99,41.96
+"Starbucks","17280-171968","Target Kingston T-1318","Licensed","1300 Ulster Ave, Smith Haven Mall","Kingston","NY","US","124011501","","GMT-05:00 America/New_York",-73.99,41.97
+"Starbucks","10046-98654","Smith Haven Mall","Company Owned","528 Smith Haven Mall, Smith Haven","Lake Grove","NY","US","117551206","631-863-2061","GMT-05:00 America/New_York",-73.13,40.87
+"Teavana","28633-250019","Teavana - Smith Haven","Company Owned","313 Smith Haven Mall, #C-12","Lake Grove","NY","US","11755","631-724-3059","GMT-05:00 America/New_York",-73.13,40.86
+"Starbucks","11065-103520","Lake Placid, Main St","Company Owned","2490 Main St.","Lake Placid","NY","US","12946","5185231437","GMT-05:00 America/New_York",-73.99,44.29
+"Starbucks","22882-217327","Lancaster, Regal Center","Company Owned","6707 Transit Rd., 100","Lancaster","NY","US","14221","7166321729","GMT-05:00 America/New_York",-78.7,42.95
+"Starbucks","7278-601","Larchmont","Company Owned","1929 Palmer Avenue, A2","Larchmont","NY","US","105382403","(914) 834-6863","GMT-05:00 America/New_York",-73.76,40.93
+"Starbucks","7390-1054","Newton Plaza, Loudonville","Company Owned","594 New Loudon Road","Latham","NY","US","121104025","(518) 783-4544","GMT-05:00 America/New_York",-73.76,42.73
+"Starbucks","23901-233644","Latham Plaza","Company Owned","1210 Troy Schenectady Road","Latham","NY","US","12110","518 7647116","GMT-05:00 America/New_York",-73.82,42.77
+"Starbucks","21681-172907","Price Chopper #138-Latham, NY","Licensed","873 New Loudon Rd","Latham","NY","US","121102150","518-782-0441","GMT-05:00 America/New_York",-73.76,42.75
+"Starbucks","76286-90379","Target Latham T-1915","Licensed","675 Troy Schenectady Rd","Latham","NY","US","121102493","518-782-0348","GMT-05:00 America/New_York",-73.77,42.76
+"Starbucks","13452-106976","549 Troy-Schenectady Rd","Company Owned","549 Troy-Schenectady Road","Latham","NY","US","121102811","518-783-0568","GMT-05:00 America/New_York",-73.76,42.75
+"Starbucks","9308-96185","Levittown - Hempstead Tpke.","Company Owned","3240 Hempstead Tpke","Levittown","NY","US","117561345","5165200973","GMT-05:00 America/New_York",-73.52,40.73
+"Starbucks","18569-180188","Levittown 2 - Hempstead Tpke","Company Owned","2693 Hempstead Tpke","Levittown","NY","US","11756","5167965609","GMT-05:00 America/New_York",-73.54,40.72
+"Starbucks","15619-162724","Target Levittown T-1264","Licensed","3850 Hempstead Tpke","Levittown","NY","US","117561303","516-731-9392","GMT-05:00 America/New_York",-73.5,40.73
+"Starbucks","75889-103955","NY Indian Castle Travel Plaza","Licensed","Rd #3, Rt 5S, Mile Post 210E","Little falls","NY","US","13365","315-823-4350","GMT-05:00 America/New_York",-74.85,43.05
+"Starbucks","14240-112064","254-41 Horace Harding Expressway","Company Owned","254-41 Horace Harding Expressway, Rt. 57 Retail Center","Little Neck","NY","US","113621816","718-428-2489","GMT-05:00 America/New_York",-73.73,40.76
+"Starbucks","7583-21762","Clay","Company Owned","7567 Oswego Rd","Liverpool","NY","US","130902960","3156228932","GMT-05:00 America/New_York",-76.23,43.14
+"Starbucks","73937-135227","Stop & Shop - Long Beach #2582","Licensed","85 E Park Ave","Long Beach","NY","US","11561","516-432-9077","GMT-05:00 America/New_York",-73.66,40.58
+"Starbucks","7425-1903","Long Beach","Company Owned","101 West Park Avenue","Long Beach","NY","US","115613322","516-670-9182","GMT-05:00 America/New_York",-73.67,40.59
+"Starbucks","22983-224625","Price Chopper - Loudonville #188","Licensed","475 Albany-Shaker Rd","Loudonville","NY","US","12211","518-459-8720","GMT-05:00 America/New_York",-73.78,42.71
+"Starbucks","7413-1713","Lynbrook","Company Owned","659 Sunrise Highway","Lynbrook","NY","US","115633246","(516) 599-4809","GMT-05:00 America/New_York",-73.68,40.66
+"Starbucks","21639-208889","Price Chopper Malta # 184","Licensed","1 Kendall Way","Malta","NY","US","12020","518-899-3007","GMT-05:00 America/New_York",-73.79,42.97
+"Starbucks","7520-3047","Mamaroneck","Company Owned","1030 West Boston Post Rd","Mamaroneck","NY","US","105433328","914-698-4818","GMT-05:00 America/New_York",-73.74,40.94
+"Starbucks","17216-155505","Macy's-Manhasset #5","Licensed","1100 Northern Blvd","Manhasset","NY","US","110303024","516-869-2290","GMT-05:00 America/New_York",-73.7,40.79
+"Starbucks","7246-553","Manhasset","Company Owned","375 Plandome Road, Arts & Music","Manhasset","NY","US","110301940","(516) 869-9608","GMT-05:00 America/New_York",-73.7,40.8
+"Starbucks","29173-252811","66th and Amsterdam","Company Owned","141 Amsterdam, none","Manhattan","NY","US","10023","6462768254","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","7861-83522","Manorville","Company Owned","485 CR-111","Manorville","NY","US","11949","6313958097","GMT-05:00 America/New_York",-72.8,40.87
+"Starbucks","7307-1088","Massapequa Village Square","Company Owned","4301 Merrick Road, Sunrise Mall","Massapequa","NY","US","117586018","(516) 797-8691","GMT-05:00 America/New_York",-73.47,40.67
+"Starbucks","14217-117928","Sunrise Mall","Company Owned","9165 Sunrise Mall","Massapequa","NY","US","117584370","516-798-0636","GMT-05:00 America/New_York",-73.43,40.68
+"Starbucks","13718-107982","Mattituck","Company Owned","10095 Main Road","Mattituck","NY","US","119521529","6312984563","GMT-05:00 America/New_York",-72.54,40.99
+"Starbucks","9922-98932","Medford, Route 112","Company Owned","2717 Route 112","Medford","NY","US","117632560","631-207-1480","GMT-05:00 America/New_York",-73,40.82
+"Starbucks","76412-95718","Target Medford T-1948","Licensed","2975 Horseblock Rd","Medford","NY","US","117632526","631-286-0287","GMT-05:00 America/New_York",-72.99,40.82
+"Starbucks","79377-97521","Stop & Shop-Medford #583","Licensed","700-60 Patchogue Yaphank Rd","Medford","NY","US","117632239","631-345-0250","GMT-05:00 America/New_York",-72.96,40.81
+"Starbucks","7576-18559","Melville","Company Owned","64 Broad Hollow Road","Melville","NY","US","117472504","631-692-0392","GMT-05:00 America/New_York",-73.42,40.79
+"Starbucks","21980-216607","North Melville","Company Owned","488 Walt Whitman Rd, LaBoutique","Melville","NY","US","11747","5164062832","GMT-05:00 America/New_York",-73.41,40.81
+"Starbucks","7302-555","Merrick","Company Owned","2015 Merrick Road","Merrick","NY","US","115664644","(516) 379-7467","GMT-05:00 America/New_York",-73.55,40.66
+"Starbucks","19917-202867","Target Middletown T-1296","Licensed","1 N Galleria Dr, Orange Plaza","Middletown","NY","US","10941","845-692-3700","GMT-05:00 America/New_York",-74.37,41.45
+"Starbucks","13454-106336","Middletown, Orange Plaza","Company Owned","51 Orange Plaza Lane, Miller Place Shopping Center","Middletown","NY","US","109402254","845-343-0747","GMT-05:00 America/New_York",-74.38,41.45
+"Starbucks","7844-81481","Miller Place","Company Owned","385 Route 25 A, 14","Miller Place","NY","US","117642525","631-331-0405","GMT-05:00 America/New_York",-72.99,40.94
+"Starbucks","76491-97547","Target Monroe T-2024","Licensed","128 Bailey Farm Rd","Monroe","NY","US","109504952","845-783-5686","GMT-05:00 America/New_York",-74.15,41.32
+"Starbucks","814-2012","Mt. Kisco","Company Owned","41 South Moger Avenue","Mount Kisco","NY","US","105492219","914-666-0248","GMT-05:00 America/New_York",-73.73,41.21
+"Starbucks","76285-90998","Target Mt Vernon T-1887","Licensed","600 Garden Ave","Mount Vernon","NY","US","105504747","","GMT-05:00 America/New_York",-73.82,40.9
+"Starbucks","76318-95721","Target Mt Kisco T-1954","Licensed","195A N Bedford Rd","Mt Kisco","NY","US","105491149","914-602-0004","GMT-05:00 America/New_York",-73.72,41.22
+"Starbucks","11369-104643","Nanuet","Company Owned","126 West Rockland Plaza, Shops at Nanuet","Nanuet","NY","US","109542210","845-624-2085","GMT-05:00 America/New_York",-74.01,41.1
+"Teavana","28470-250137","Teavana - Shops at Nanuet","Company Owned","8127 Fashion Dr.","Nanuet","NY","US","10954","845-623-1635","GMT-05:00 America/New_York",-74.01,41.1
+"Starbucks","22187-214245","Simon Properties - The Shops at Nan","Licensed","1131 Fashion Dr","Nanuet","NY","US","10954","845-624-9410","GMT-05:00 America/New_York",-74.02,41.1
+"Starbucks","14795-112405","Nesconset, Smithtown Blvd.","Company Owned","465 Smithtown Blvd.","Nesconset","NY","US","117672421","631-979-3093","GMT-05:00 America/New_York",-73.15,40.83
+"Starbucks","14785-128844","New City","Company Owned","83 South Main","New City","NY","US","109563511","845-639-5304","GMT-05:00 America/New_York",-73.99,41.14
+"Starbucks","7592-14132","New Hyde Park","Company Owned","1596 Union Turnpike","New Hyde Park","NY","US","110401762","718-831-1323","GMT-05:00 America/New_York",-73.69,40.75
+"Starbucks","79421-96640","Stop & Shop-New Hyde Park #570","Licensed","653 Hillside Ave","New Hyde Park","NY","US","110402512","516-616-9170","GMT-05:00 America/New_York",-73.7,40.74
+"Starbucks","7499-6006","New Paltz","Company Owned","1 Plattekill Avenue","New Paltz","NY","US","125611918","845-256-9815","GMT-05:00 America/New_York",-74.09,41.75
+"Starbucks","25851-231664","SUNY New Paltz Parker Theatre","Licensed","1 Hawk Dr","New Paltz","NY","US","12561","8452572540","GMT-05:00 America/New_York",-74.09,41.75
+"Starbucks","73950-96652","Stop & Shop-New Rochelle #529","Licensed","2425 Palmer Ave","New Rochelle","NY","US","108014400","914-632-7084","GMT-05:00 America/New_York",-73.77,40.92
+"Starbucks","7209-548","Wykagyl","Company Owned","1278-80 North Avenue","New Rochelle","NY","US","108042603","914-654-8651","GMT-05:00 America/New_York",-73.8,40.95
+"Starbucks","23930-227526","Iona College - Student Union","Licensed","715 North Ave","New Rochelle","NY","US","10801","914-633-4947","GMT-05:00 America/New_York",-73.79,40.93
+"Starbucks","818-227125","80th & Second","Company Owned","245 East 80th St","New York","NY","US","10075","2124727972","GMT-05:00 America/New_York",-73.95,40.77
+"Starbucks","14318-119964","Nassau & Fulton","Company Owned","130 Fulton Street","New York","NY","US","100382504","212-962-0439","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7670-36979","49th & 8th","Company Owned","825 Eighth Avenue, W-9","New York","NY","US","100197416","212 307 1421","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7626-33939","Spring and Varick","Company Owned","150 Varick Street, The Lyric Building","New York","NY","US","100131218","646-230-9816","GMT-05:00 America/New_York",-74.01,40.73
+"Starbucks","7699-45959","95th & Broadway","Company Owned","2521 Broadway","New York","NY","US","100256924","(212) 316-0374","GMT-05:00 America/New_York",-73.97,40.79
+"Starbucks","14092-114824","Macy's 6th Floor","Company Owned","151 W. 34th Street","New York","NY","US","100012101","212-268-3695","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","20679-207324","87th & Third","Company Owned","1542 Third Avenue","New York","NY","US","10028","212-369-2949","GMT-05:00 America/New_York",-73.95,40.78
+"Starbucks","25274-240368","26th between 10th and 11th","Company Owned","525 West 26th St","New York","NY","US","10001","347-387-7428","GMT-05:00 America/New_York",-74,40.75
+"Starbucks","19890-198365","57th & Eighth","Company Owned","250 W 57th St","New York","NY","US","10107","212-586-0940","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","14498-121264","88th & Broadway","Company Owned","2394 Broadway","New York","NY","US","100241703","212-595-3404","GMT-05:00 America/New_York",-73.98,40.79
+"Starbucks","21506-212805","99th & Broadway","Company Owned","2621 Broadway","New York","NY","US","10025","212-222-3972","GMT-05:00 America/New_York",-73.97,40.8
+"Starbucks","7407-1674","92nd & Third","Company Owned","1642 Third Avenue","New York","NY","US","101283618","212-360-0425","GMT-05:00 America/New_York",-73.95,40.78
+"Starbucks","18509-188684","63rd & Lexington","Company Owned","822 Lexington Ave","New York","NY","US","10065","212-572-0984","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7622-22334","15th & 3rd","Company Owned","145 Third Avenue","New York","NY","US","100032543","212-677-7248","GMT-05:00 America/New_York",-73.99,40.73
+"Starbucks","7769-65280","Macy's 3rd Floor","Company Owned","151 W. 34th Street, Room 900","New York","NY","US","100012101","212 564 7025","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7497-8627","Broadway and Bond","Company Owned","665 Broadway","New York","NY","US","100122300","917-534-0799","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","26286-244212","124th and Broadway","Company Owned","3165 Broadway, 3167","New York","NY","US","10027","9292432549","GMT-05:00 America/New_York",-73.96,40.82
+"Starbucks","8130-93577","34th & Park","Company Owned","3 Park Avenue","New York","NY","US","100165902","212-725-9469","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7462-233844","45th & 5th","Company Owned","2 West 45th","New York","NY","US","10036","2128690619","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","11738-106177","63rd & Broadway","Company Owned","1889 Broadway","New York","NY","US","100237005","2122451362","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","8965-95114","51st btwn Park & Madison","Company Owned","45 E. 51st Street","New York","NY","US","100225901","212-688-8834","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","9239-162565","52nd Btwn Fifth & Sixth","Company Owned","1290 Sixth Avenue","New York","NY","US","10019","212-977-4861","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","5114-153466","96th & Lexington","Company Owned","1491 Lexington Avenue","New York","NY","US","100297307","212-369-0313","GMT-05:00 America/New_York",-73.95,40.79
+"Starbucks","75589-26767","Marriott Marquis - Street Level","Licensed","1535 Broadway","New York","NY","US","100364098","212-398-1900","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7557-15836","50th & 2nd","Company Owned","943 Second Avenue","New York","NY","US","100227744","212-715-0752","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","28168-250311","46th between 6th and 5th","Company Owned","55 West 46th st, Broadway at 81st","New York","NY","US","10036","646.647.5558","GMT-05:00 America/New_York",-73.98,40.76
+"Teavana","28466-250061","Teavana - Broadway at 81st","Company Owned","2261 Broadway","New York","NY","US","10024","212-799-0724","GMT-05:00 America/New_York",-73.98,40.79
+"Starbucks","10282-100718","Pearl & Hanover","Company Owned","110 Pearl Street","New York","NY","US","100053510","212-482-6530","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","7255-694","8th & 16th","Company Owned","124 Eighth Avenue","New York","NY","US","100115108","(212) 462-2020","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","17496-180205","42nd & 9th","Company Owned","350 West 42nd Street","New York","NY","US","10036","2122444176","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","831-2028","32nd & 2nd","Company Owned","585 2nd Avenue","New York","NY","US","100164803","212-684-1299","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","7375-1557","195 Broadway","Company Owned","195 Broadway","New York","NY","US","100073100","212 3851104","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7277-986","23rd & Park","Company Owned","304 Park Avenue South","New York","NY","US","100104301","2124759025","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","7682-50401","76th & Second","Company Owned","1449 Second Avenue","New York","NY","US","100212904","212-472-0653","GMT-05:00 America/New_York",-73.96,40.77
+"Starbucks","20185-203785","23rd & 1st","Company Owned","400 E 23rd st","New York","NY","US","10010","212-673-4213","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","19862-191464","UNIQLO @ 53rd & Fifth","Company Owned","666 Fifth Avenue, 2nd floor","New York","NY","US","10103","212-956-2795","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7394-1505","81st & Columbus","Company Owned","444 Columbus Avenue","New York","NY","US","100245130","212-769-2296","GMT-05:00 America/New_York",-73.97,40.78
+"Starbucks","837-95594","2nd Ave. & 9th Street","Company Owned","145 2nd Avenue","New York","NY","US","100035703","212-780-0027","GMT-05:00 America/New_York",-73.99,40.73
+"Starbucks","7858-65800","17th & 1st","Company Owned","286 First Avenue, A","New York","NY","US","100091850","212-353-1214","GMT-05:00 America/New_York",-73.98,40.73
+"Starbucks","7540-241728","Union Square West","Company Owned","25 Union Square West, 25","New York","NY","US","10003","6463366945","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","1379-145445","Target East River Plaza T-2380","Licensed","517 E 117th St","New York","NY","US","100354409","212-835-0860","GMT-05:00 America/New_York",-73.93,40.8
+"Starbucks","7261-784","Greenwich Ave at Bank St","Company Owned","93 Greenwich Avenue","New York","NY","US","100145203","(212) 462-4697","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","7215-142646","47th & Broadway","Company Owned","1585 Broadway","New York","NY","US","10036","212-541-7515","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","14442-122904","19th & Park","Company Owned","240 Park Avenue South","New York","NY","US","100031414","212-375-1415","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","821-2019","66th & Third","Company Owned","1128 Third Avenue","New York","NY","US","100656606","212-472-6535","GMT-05:00 America/New_York",-73.96,40.77
+"Starbucks","2784-91104","53rd & Sixth (NE Corner)","Company Owned","1330 6th Ave.","New York","NY","US","10019","212-969-9066","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","10841-103109","55th & Lex","Company Owned","655 Lexington Avenue","New York","NY","US","100224502","212-308-5717","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7465-6649","59th & Columbus","Company Owned","2 Columbus Avenue","New York","NY","US","100236924","2124896757","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","11764-106301","Empire State Building","Company Owned","350 Fifth Avenue","New York","NY","US","101180110","212-268-5471","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","15685-158204","69th & First","Company Owned","1281 First Avenue","New York","NY","US","100215583","212-472-1312","GMT-05:00 America/New_York",-73.96,40.77
+"Starbucks","14241-118145","NHL store @ 47th & Sixth","Company Owned","1185 Avenue of the Americas","New York","NY","US","100362601","212-730-7645","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","9240-9093","Secure Access: 55th & Sixth","Company Owned","1345 6th Ave","New York","NY","US","10105","(212) 265-8610","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","14841-127064","Church Street & Murray","Company Owned","120 Church Street","New York","NY","US","100072402","212-513-1451","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7493-6648","100 Williams Street","Company Owned","100 William Street","New York","NY","US","100384512","212-509-9709","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","21690-213064","Starbucks Level 3 Jacob Javits Cemt","Licensed","655 W 34th St","New York","NY","US","10001","212-216-2400","GMT-05:00 America/New_York",-74,40.76
+"Starbucks","7244-646","State St & Pearl Streets","Company Owned","1 Battery Park Plaza","New York","NY","US","100041405","2124821180","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","7696-46039","56th Btwn Sixth & Seventh","Company Owned","120 W. 56th Street","New York","NY","US","100193866","212-262-9273","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","9467-97021","43rd & 9th","Company Owned","593 Ninth Ave","New York","NY","US","100363706","212-594-7846","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","9241-229444","53rd Inside Park Ave Plaza","Company Owned","55 East 52nd Street","New York","NY","US","10022","2127507140","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7860-83021","Trump Tower @ 57th & Fifth","Company Owned","725 5th Avenue","New York","NY","US","100222519","212-421-7154","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","15461-158185","8th Ave just south of 14th St","Company Owned","122 Greenwich Avenue, (space A)","New York","NY","US","100117710","212-366-4672","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","14219-116045","Houston & W. Broadway","Company Owned","482 West Broadway","New York","NY","US","100125333","212-254-0139","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","29941-255665","63rd & 3rd Ave","Company Owned","1077 3rd Avenue","New York","NY","US","10065","6468663442","GMT-05:00 America/New_York",-73.96,40.76
+"Starbucks","75194-74840","New York University","Licensed","45 West 4th Street","New York","NY","US","10012","212-995-3443","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","7851-80623","Penn Station by A,C,E","Company Owned","1 Penn Plaza Concourse Level","New York","NY","US","101190002","212-736-3206","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7474-7588","93rd and Broadway","Company Owned","2498 Broadway","New York","NY","US","100257428","917-441-1643","GMT-05:00 America/New_York",-73.97,40.79
+"Starbucks","7801-52999","41st & Madison","Company Owned","295 Madison Avenue","New York","NY","US","100176304","212-922-9078","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7506-6650","42nd btwn 3rd & Lex","Company Owned","150 E. 42nd Street","New York","NY","US","100175612","212-949-4122","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7352-920","86th & Columbus","Company Owned","540 Columbus Avenue","New York","NY","US","100243405","2124964163","GMT-05:00 America/New_York",-73.97,40.79
+"Starbucks","7608-22381","48th & Lex","Company Owned","511 Lexington Avenue","New York","NY","US","100172017","212 4861964","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","26028-243049","33rd btwn 5th & 6th","Company Owned","350 Fifth Avenue, 130, The Capitol At Chelsea","New York","NY","US","10001","2125649141","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7792-59799","27th & 6th","Company Owned","776 Avenue of the Americas","New York","NY","US","100016354","212-481-1856","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","15751-162574","W Broadway & Leonard Street","Company Owned","180 West Broadway","New York","NY","US","100132906","2123437402","GMT-05:00 America/New_York",-74.01,40.72
+"Starbucks","7890-85122","42nd & 8th","Company Owned","251 West 42nd Street","New York","NY","US","100367201","212-398-1982","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7675-44919","14th & Sixth","Company Owned","510 Sixth Avenue","New York","NY","US","10011","(212) 242-5981","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","11736-106179","49th & Madison","Company Owned","425 Madison Avenue","New York","NY","US","100171110","212/644/9462","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","26528-244444","6th between 39th and 40th","Company Owned","1040 Sixth Avenue","New York","NY","US","10018","3479783853","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","16255-162586","3rd St & First Avenue","Company Owned","49 -1/2 First Avenue","New York","NY","US","100039430","2127771752","GMT-05:00 America/New_York",-73.99,40.72
+"Starbucks","22420-220645","43rd & Lex","Company Owned","425 Lexington","New York","NY","US","10166","212 922-3589","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","14601-126966","125th & Adam Clayton","Company Owned","201 W. 125th Street","New York","NY","US","100274466","212-222-2872","GMT-05:00 America/New_York",-73.95,40.81
+"Starbucks","8614-93967","58th & Eight","Company Owned","4 Columbus Circle","New York","NY","US","100191100","2122650658","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","11648-105796","145th & Bradhurst","Company Owned","301 W. 145th St.","New York","NY","US","100393159","212-690-7835","GMT-05:00 America/New_York",-73.94,40.82
+"Starbucks","48117-261426","1st btwn 53rd & 54th","Company Owned","969 1st Ave","New York","NY","US","10022","3475010264","GMT-05:00 America/New_York",-73.96,40.76
+"Starbucks","7709-53019","76th & Columbus","Company Owned","338 Columbus Avenue","New York","NY","US","100238403","646-505-1106","GMT-05:00 America/New_York",-73.98,40.78
+"Starbucks","11765-106302","58th & Sixth","Company Owned","1411 Sixth Avenue, Metropolitan Tower","New York","NY","US","10019","212-664-1305","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7698-59480","57th & Seventh","Company Owned","142 W. 57th Street","New York","NY","US","100193300","6467101906","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","48069-251745","JP Morgan New York Plaza - 14th FL","Licensed","4 New York Plaza, 14th Floor","New York","NY","US","10004","7185081559","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","17452-180204","25th & Lex","Company Owned","50 Lexington Avenue","New York","NY","US","10010","212 2542794","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","7222-594","42nd & Madison","Company Owned","11 East 42nd St.","New York","NY","US","100175001","212-682-1880","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","13455-107574","42nd & 2nd","Company Owned","220 East 42nd St, Manhattan Mall","New York","NY","US","100175806","212-867-1264","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","18777-195025","Manhattan Mall 1st Floor","Company Owned","100 W 33rd St","New York","NY","US","10001","2126954260","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","25348-240404","110th & Manhattan","Company Owned","321 W 110th Street","New York","NY","US","10026","347-637-0214","GMT-05:00 America/New_York",-73.96,40.8
+"Starbucks","849-2059","Park Row at Beekman St","Company Owned","38 Park Row, #4","New York","NY","US","100381551","212-608-8073","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","3421-93578","West 23rd and 8th","Company Owned","300 W 23rd St.","New York","NY","US","100112210","646-638-1571","GMT-05:00 America/New_York",-74,40.75
+"Starbucks","25139-240084","93rd & Second","Company Owned","245 East 93rd St","New York","NY","US","10128","6464558766","GMT-05:00 America/New_York",-73.95,40.78
+"Starbucks","20763-207924","60 Wall St","Company Owned","60 Wall St","New York","NY","US","10005","3474614068","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","13539-107570","23rd btwn 5th & 6th","Company Owned","14 W. 23rd St","New York","NY","US","100105203","212-367-2050","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","7587-18379","24th & 6th","Company Owned","750 6th Avenue","New York","NY","US","100102710","646-230-7208","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","2785-89743","47th & 8th","Company Owned","770 Eighth Ave","New York","NY","US","100367017","212-830-9001","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","26188-243831","Columbus Circle Subway","Company Owned","1000 S Eighth Avenue, #34","New York","NY","US","10019","6466529813","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","11934-106845","Broadway & Canal","Company Owned","405 Broadway","New York","NY","US","100133558","646-613-0148","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","19030-193844","49th & Park","Company Owned","280 Park Avenue","New York","NY","US","10017","212 682-2586","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7263-890","43rd & 8th","Company Owned","684 Eighth Avenue","New York","NY","US","100367114","(212) 398-9702","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","823-2018","78th & Lexington","Company Owned","1117 Lexington Ave., #4","New York","NY","US","100750401","212-517-8476","GMT-05:00 America/New_York",-73.96,40.77
+"Starbucks","7640-30819","181st & Fort Washington","Company Owned","803 W 181st St","New York","NY","US","100334516","212-927-4272","GMT-05:00 America/New_York",-73.94,40.85
+"Starbucks","854-2051","Spring Street at Crosby St","Company Owned","72 SPRING STREET","New York","NY","US","100124019","212-219-2961","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","7898-84140","42nd & Park","Company Owned","125 Park Ave","New York","NY","US","100175529","212-557-2718","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7344-1271","60th and Broadway","Company Owned","1841 Broadway","New York","NY","US","100237603","2123070162","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","7611-32699","40th & Lex","Company Owned","360 Lexington Avenue","New York","NY","US","100176502","212-953-1662","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7282-987","49th & Seventh","Company Owned","750 Seventh Avenue","New York","NY","US","100196834","(212) 974-0032","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7341-1273","23rd & 3rd","Company Owned","296-300 Third Avenue","New York","NY","US","100105506","(212) 598-9651","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","7558-15834","96th & Madison","Company Owned","1378 Madison Avenue","New York","NY","US","101280712","212-534-7225","GMT-05:00 America/New_York",-73.95,40.79
+"Starbucks","13538-107927","28th & 7th","Company Owned","315 Seventh Avenue","New York","NY","US","100016005","646-336-6462","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","17505-180084","Macy's 2nd Floor","Company Owned","151 W. 34th Street","New York","NY","US","10001","2122390342","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7386-1642","111th & Broadway","Company Owned","2853 Broadway","New York","NY","US","100257817","2122807269","GMT-05:00 America/New_York",-73.97,40.8
+"Starbucks","7403-1712","35th & 7th","Company Owned","462 7th Avenue","New York","NY","US","10018","(212) 279-6432","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","14441-122925","118th & Frederick Douglas Blvd.","Company Owned","2195 Frederick Douglas Boulevard","New York","NY","US","100260982","212-662-1239","GMT-05:00 America/New_York",-73.95,40.81
+"Starbucks","10279-100661","56th & Sixth","Company Owned","1380 Sixth Avenue","New York","NY","US","10019","212-977-1382","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","17478-177844","58th Btwn Madison & Fifth","Company Owned","600 Madison Avenue","New York","NY","US","10022","212 7591569","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","17795-180024","13th & 1st","Company Owned","219 First Avenue","New York","NY","US","10003","212 2540358","GMT-05:00 America/New_York",-73.98,40.73
+"Starbucks","7577-13827","45th & Park","Company Owned","230 Park Avenue","New York","NY","US","101690005","212-681-9407","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7446-2301","34th & 7th","Company Owned","450 7th Avenue","New York","NY","US","10017","212-279-1122","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7370-1274","48th & 3rd","Company Owned","757 Third Avenue","New York","NY","US","100172013","(212) 715-9884","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","18860-193548","28th & 3rd","Company Owned","393 Third Ave","New York","NY","US","10016","212-481-4690","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","7560-14070","Broadway at Barclay Str","Company Owned","233 Broadway","New York","NY","US","102790001","212-619-1529","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7342-1192","41st & 3rd","Company Owned","639 3rd Avenue, Liberty Plaza","New York","NY","US","100175605","(212) 973-1376","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","9237-8938","165 Broadway - 1 Liberty","Company Owned","165 Broadway","New York","NY","US","100061404","212 6086481","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7566-13122","Broadway & Reade","Company Owned","291 Broadway","New York","NY","US","100071814","212 406 5310","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7920-88803","2 Broadway","Company Owned","2 Broadway","New York","NY","US","100042207","212-344-4290","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","8615-93968","55th & Seventh","Company Owned","870 7th Avenue","New York","NY","US","100194369","2125862142","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","8770-94772","80th & York","Company Owned","1515 York Avenue","New York","NY","US","100287002","212-472-3581","GMT-05:00 America/New_York",-73.95,40.77
+"Starbucks","25849-239047","ABC 77 West Cafe","Licensed","47 W 66th St","New York","NY","US","10023","2124560388","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","7427-1917","29th & Park","Company Owned","424 Park Avenue South","New York","NY","US","100168022","212-725-0637","GMT-05:00 America/New_York",-73.98,40.74
+"Starbucks","20154-203326","99 Wall Street","Company Owned","99 Wall St.","New York","NY","US","10005","212-487-1906","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","839-2033","81st & Broadway","Company Owned","2252 Broadway","New York","NY","US","100245805","212-721-1267","GMT-05:00 America/New_York",-73.98,40.78
+"Starbucks","825-2037","Lafayette & 8th Street","Company Owned","13-25  Astor Place","New York","NY","US","100036904","212-982-3753","GMT-05:00 America/New_York",-73.99,40.73
+"Starbucks","11737-106178","44th & Madison","Company Owned","340 Madison Avenue","New York","NY","US","101730002","212-867-0928","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7761-59819","52nd & Lex","Company Owned","599 Lexington","New York","NY","US","100226030","212-754-1864","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7470-8467","35th & 8th","Company Owned","494 Eighth Ave.","New York","NY","US","100012519","(212) 947-3860","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7501-9812","52nd & 8th","Company Owned","871 8th Avenue","New York","NY","US","100195761","212-246-7699","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7317-1191","73rd & Columbus","Company Owned","267-275 Columbus Ave","New York","NY","US","100232904","(212) 579-7834","GMT-05:00 America/New_York",-73.98,40.78
+"Starbucks","7238-645","Broadway Btwn 37th & 38th","Company Owned","1372 Broadway","New York","NY","US","100186107","(212) 921-0827","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","14218-103631","103rd & Broadway","Company Owned","2690 Broadway","New York","NY","US","100254411","212-531-8204","GMT-05:00 America/New_York",-73.97,40.8
+"Starbucks","11649-105788","Hudson & King","Company Owned","345 Hudson St.","New York","NY","US","100144502","646-486-0514","GMT-05:00 America/New_York",-74.01,40.73
+"Starbucks","47020-256344","Brookfield Place 2","Company Owned","250 Vesey Street, 203","New York","NY","US","10281","6466185392","GMT-05:00 America/New_York",-74.02,40.71
+"Starbucks","7216-592","87th & Lexington","Company Owned","120 EAST 87TH ST","New York","NY","US","101281116","212-426-2580","GMT-05:00 America/New_York",-73.96,40.78
+"Starbucks","7416-834","55 Broad Street","Company Owned","55 Broad Street","New York","NY","US","100042501","(212) 742-2490","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","75271-97781","Javits Convention Ctr Taxi North","Licensed","655 W 34th St","New York","NY","US","100011114","212-216-2426","GMT-05:00 America/New_York",-74,40.76
+"Starbucks","8812-95025","39th & Park","Company Owned","90 Park Ave","New York","NY","US","100161301","212-661-5489","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","9244-9097","43rd & Madison","Company Owned","335 Madison Avenue","New York","NY","US","100174611","(212) 370-3510","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","9722-97890","31st & 6th","Company Owned","875 Sixth Ave, Grand Central Station","New York","NY","US","10001","2126296540","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7800-67600","Grand Central","Company Owned","7800 Grand Central Station, Track 35","New York","NY","US","10017","212-370-4161","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","9238-193184","Brookfield Place 1","Company Owned","200 Liberty St, L105, 3 New York Plaza","New York","NY","US","10006","2125879512","GMT-05:00 America/New_York",-74.02,40.71
+"Starbucks","7398-1655","Water & Whitehall Streets","Company Owned","2 Water St, Macy's Herald Square","New York","NY","US","100042480","212-785-1082","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","20161-203724","Macy's Mezzanine","Company Owned","151 W 34th St","New York","NY","US","10001","212 2396524","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7575-13125","43rd & 3rd","Company Owned","685 Third Avenue","New York","NY","US","100174024","646 865 1250","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","852-2047"," 51st & Broadway","Company Owned","1656 Broadway","New York","NY","US","100196234","212-397-7124","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","24485-237984","53rd & 3rd","Company Owned","875 Third Avenue","New York","NY","US","10022","6464774945","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","10693-102303","58th btwn 3rd & Lex","Company Owned","731 Lexington Avenue","New York","NY","US","100221331","212-644-0692","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7684-40482","Broadway & Grand","Company Owned","471 Broadway","New York","NY","US","100132664","212-219-8787","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","7378-939","Union Square East","Company Owned","10 UNION SQUARE EAST, Port Authority Bus Terminal","New York","NY","US","100033314","(212) 982-8426","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","16676-158184","Port Authority South Wing","Company Owned","625 Eighth Avenue, Manhattan Project","New York","NY","US","100181415","212-273-9613","GMT-05:00 America/New_York",-73.99,40.76
+"Teavana","28382-250254","Teavana - Manhattan Project","Company Owned","1291 Lexington Ave., #1291","New York","NY","US","10028","212-831-5738","GMT-05:00 America/New_York",-73.96,40.78
+"Starbucks","9242-9095","44th & Lex","Company Owned","450 Lexington Avenue","New York","NY","US","100173904","2126825139","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","9439-96684","84th & Third","Company Owned","1488 Third Avenue #A","New York","NY","US","100281967","212-744-7458","GMT-05:00 America/New_York",-73.96,40.78
+"Starbucks","7525-12712","57th & Lex","Company Owned","135 East 57th Street","New York","NY","US","100222050","212-935-1866","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","10044-99132","Allen & Delancey","Company Owned","80 Delancey Street","New York","NY","US","100023133","917 5341397","GMT-05:00 America/New_York",-73.99,40.72
+"Starbucks","7586-26827","19th & 8th","Company Owned","177 Eighth Avenue","New York","NY","US","100111602","212 414 8786","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","21252-210045","239 Bleecker St","Company Owned","239 Bleecker St","New York","NY","US","10014","212-206-1092","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","8992-233044","54th and Broadway","Company Owned","1700 Broadway","New York","NY","US","10019","2122450761","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7781-50879","Lafayette & Worth","Company Owned","111 Worth Street","New York","NY","US","100134008","212-964-8846","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","7511-12733","39th & 7th","Company Owned","525 7th Avenue","New York","NY","US","10018","212-869-5273","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7466-6651","Chambers and West Broadway","Company Owned","125 Chambers Street","New York","NY","US","100071331","212-791-6368","GMT-05:00 America/New_York",-74.01,40.72
+"Starbucks","10784-103069","35th & 5th","Company Owned","373 5th Avenue","New York","NY","US","100163307","212-213-5363","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7612-22336","60th & First","Company Owned","1102 1st Ave","New York","NY","US","100658702","212-688-9118","GMT-05:00 America/New_York",-73.96,40.76
+"Starbucks","11650-105785","Hudson & 10th","Company Owned","518 Hudson Street","New York","NY","US","100142854","646-486-0524","GMT-05:00 America/New_York",-74.01,40.73
+"Starbucks","20259-184464","6th Ave at Walker Street","Company Owned","32 Avenue of the Americas","New York","NY","US","10013","2129660984","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","817-2015","75th & First","Company Owned","1445 First Avenue","New York","NY","US","100213002","212-472-7784","GMT-05:00 America/New_York",-73.95,40.77
+"Starbucks","7673-15896","52nd & 7th","Company Owned","156 W 52nd St","New York","NY","US","100196004","2122456479","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7711-46019","15th & Ninth","Company Owned","76 9th Ave","New York","NY","US","100114962","(646) 230-7145","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","29940-255942","85th & Madison","Company Owned","1142 Madison Ave","New York","NY","US","10028","2122881506","GMT-05:00 America/New_York",-73.96,40.78
+"Starbucks","10751-100660","Roosevelt Island","Company Owned","455 Main Street","New York","NY","US","100440192","212-371-1298","GMT-05:00 America/New_York",-73.95,40.76
+"Starbucks","7878-83763","Pearl & Maiden","Company Owned","80 Pine Street","New York","NY","US","100051702","212-480-3970","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","847-591","6th & Waverly (Waverly Place)","Company Owned","378 6th Avenue","New York","NY","US","10011","212-477-2690","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","10608-101495","60th & Third","Company Owned","1021 Third Avenue","New York","NY","US","100658501","212-486-6764","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","47195-257105","10 Waverly Place","Company Owned","10 Waverly Place","New York","NY","US","10003","9292590304","GMT-05:00 America/New_York",-73.99,40.73
+"Starbucks","7536-8567","36th & Madison","Company Owned","200 Madison Avenue","New York","NY","US","100163903","212-684-6873","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","16628-169564","26th & Broadway","Company Owned","1140 Broadway","New York","NY","US","100107504","2122136519","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","7316-1190","31st & 7th","Company Owned","370 7th Avenue","New York","NY","US","100013967","(212) 967-2041","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","23044-227244","32nd btwn 6th & 7th","Company Owned","11 Penn Plaza","New York","NY","US","10001","646-599-3512","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","19024-191684","53rd & Madison","Company Owned","515 Madison Avenue","New York","NY","US","10022","212-371-3758","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","7663-40483","90th & First","Company Owned","400 East 90th Street","New York","NY","US","101285153","212-987-0891","GMT-05:00 America/New_York",-73.95,40.78
+"Starbucks","7534-12700","114th & Broadway","Company Owned","2929 Broadway","New York","NY","US","100257819","212-932-0300","GMT-05:00 America/New_York",-73.96,40.81
+"Starbucks","7547-14071","7th Ave at Grove Street","Company Owned","72 Grove Street","New York","NY","US","100143557","646-486-2216","GMT-05:00 America/New_York",-74,40.73
+"Starbucks","25818-242585","14 Wall St","Company Owned","14 Wall St","New York","NY","US","10005","6465966331","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7672-48619","85th & First","Company Owned","1631 1st Ave","New York","NY","US","100284304","212-737-6534","GMT-05:00 America/New_York",-73.95,40.78
+"Starbucks","14618-126424","24th & 7th","Company Owned","229 Seventh Avenue","New York","NY","US","100111808","212-255-8750","GMT-05:00 America/New_York",-74,40.74
+"Starbucks","7426-141352","47th & 5th","Company Owned","575 Fifth Avenue","New York","NY","US","100172422","212-490-3189","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7680-36959","Canal and Centre","Company Owned","241 Canal Street","New York","NY","US","100134118","212-219-2725","GMT-05:00 America/New_York",-74,40.72
+"Starbucks","7273-984","42nd & 6th","Company Owned","1100 Avenue of the Americas","New York","NY","US","100366712","(212) 398-4508","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","7443-3688","Rockefeller Center Concourse","Company Owned","30 Rockefeller Plaza, Space A","New York","NY","US","101120015","212-586-0914","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","17738-182205","53rd & Sixth (SW Corner)","Company Owned","1301 Avenue of the Americas","New York","NY","US","10019","212 9740902","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","22258-219066","Water St @ Broad (inside)","Company Owned","1 New York Plaza","New York","NY","US","10004","212-785-8409","GMT-05:00 America/New_York",-74.01,40.7
+"Starbucks","11277-104884","85th & Lexington","Company Owned","1261 Lexington Avenue","New York","NY","US","100282001","212-879-1764","GMT-05:00 America/New_York",-73.96,40.78
+"Starbucks","7420-1902","29th & 5th","Company Owned","261 Fifth Avenue","New York","NY","US","100167701","212-779-1557","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","16627-169964","John & Water Streets","Company Owned","135 John Street","New York","NY","US","100383524","2123440894","GMT-05:00 America/New_York",-74,40.71
+"Starbucks","26158-243772","40th btwn Madison & 5th","Company Owned","5 East 40th st","New York","NY","US","10016","2126897419","GMT-05:00 America/New_York",-73.98,40.75
+"Starbucks","14300-116726","168th & Broadway","Company Owned","4001 Broadway","New York","NY","US","100321508","917-521-0342","GMT-05:00 America/New_York",-73.94,40.84
+"Starbucks","10396-100662","21st & 5th","Company Owned","4 W. 21st Street","New York","NY","US","100106945","646-336-6583","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","7468-8466","39th & 8th","Company Owned","600 Eighth Ave.","New York","NY","US","100183000","212 9977341","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","15440-156484","43rd & Sixth","Company Owned","1101 - 1109 Avenue of the Americas","New York","NY","US","100366706","212-382-3917","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","7354-1272","70th & Broadway","Company Owned","2045 Broadway","New York","NY","US","100233702","2124961551","GMT-05:00 America/New_York",-73.98,40.78
+"Starbucks","25039-239665","45th btwn Lex & 3rd","Company Owned","2 Grand Central Tower","New York","NY","US","10017","6466781753","GMT-05:00 America/New_York",-73.97,40.75
+"Starbucks","7802-73320","50th & Lex","Company Owned","560 Lexington Avenue","New York","NY","US","100226828","212-751-2937","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","29939-255664","Broadway and 9th","Company Owned","771 Broadway","New York","NY","US","10003","6464459014","GMT-05:00 America/New_York",-73.99,40.73
+"Starbucks","16576-168024","36th & 6th","Company Owned","977 Avenue of the Americas","New York","NY","US","100185436","212-695-2915","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","7655-22330","54th & Lex","Company Owned","630 Lexington Ave","New York","NY","US","100224614","212-521-8075","GMT-05:00 America/New_York",-73.97,40.76
+"Starbucks","23557-230825","57th & Tenth","Company Owned","475 West 57th st","New York","NY","US","10019","2122475489","GMT-05:00 America/New_York",-73.99,40.77
+"Starbucks","7691-52959","Liberty & Nassau","Company Owned","55 Liberty Street","New York","NY","US","100051003","212-227-0372","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","25533-241228","222 Broadway","Company Owned","222 Broadway","New York","NY","US","10007","6466476873","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","7874-82723","75th & Broadway","Company Owned","2140 Broadway","New York","NY","US","100238208","212-580-1141","GMT-05:00 America/New_York",-73.98,40.78
+"Starbucks","7353-835","One Penn Plaza","Company Owned","1 Penn Plaza","New York","NY","US","101190002","(212) 760-3001","GMT-05:00 America/New_York",-73.99,40.75
+"Starbucks","20759-207804","Broadway & Dyckman","Company Owned","4761 Broadway","New York","NY","US","10040","212-304-3632","GMT-05:00 America/New_York",-73.93,40.87
+"Starbucks","7788-64366","Broadway & Thames","Company Owned","115 Broadway","New York","NY","US","100061604","212-732-9268","GMT-05:00 America/New_York",-74.01,40.71
+"Starbucks","8769-93576","43rd & Broadway","Company Owned","1500 Broadway","New York","NY","US","100364015","212-221-7515","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7245-595","57th Btwn Eighth & Ninth","Company Owned","322 West 57th Street","New York","NY","US","100193701","2123990714","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","17424-178284","100th & Columbus","Company Owned","805 Columbus Avenue, 85 West 125th Street","New York","NY","US","10025","2122226582","GMT-05:00 America/New_York",-73.97,40.8
+"Starbucks","7456-3949","125th & Lenox","Company Owned","77-83 West 125th Street","New York","NY","US","100274512","917-492-2454","GMT-05:00 America/New_York",-73.95,40.81
+"Starbucks","75491-113947","Limited Brands-NYC","Licensed","1740 Broadway","New York","NY","US","100194315","","GMT-05:00 America/New_York",-73.98,40.77
+"Starbucks","7393-1367","49th btwn 8th & 9th","Company Owned","325 W 49th St","New York","NY","US","100197316","(212) 765-2205","GMT-05:00 America/New_York",-73.99,40.76
+"Starbucks","7285-1073","22nd & 6th","Company Owned","684 Avenue of the Americas","New York","NY","US","100105110","(212) 691-1948","GMT-05:00 America/New_York",-73.99,40.74
+"Starbucks","7444-3689","Rockefeller Center Subway","Company Owned","30 Rockefeller Plaza","New York","NY","US","101120015","(212) 397-7950","GMT-05:00 America/New_York",-73.98,40.76
+"Starbucks","15742-157884","Newburgh","Company Owned","1282 Route 300","Newburgh","NY","US","12550","845-567-3528","GMT-05:00 America/New_York",-74.07,41.51
+"Starbucks","76558-95722","Target Newburgh T-2076","Licensed","50 SR 17K","Newburgh","NY","US","12550","","GMT-05:00 America/New_York",-74.06,41.51
+"Starbucks","75921-104040","Sheraton at the Falls Hotel","Licensed","300 Third Street","Niagara Falls","NY","US","143031102","716-284-4200","GMT-05:00 America/New_York",-79.06,43.09
+"Starbucks","21487-208946","Fashion Outlets of Niagara Falls","Company Owned","1900 Military Road","Niagara Falls","NY","US","14304","7162970809","GMT-05:00 America/New_York",-78.98,43.1
+"Starbucks","19901-201424","Niagara Falls, Niagara Falls Blvd","Company Owned","6690 Niagara Falls Boulevard, 100","Niagara Falls","NY","US","14304","7162832804","GMT-05:00 America/New_York",-78.99,43.09
+"Starbucks","7363-206104","Niskayuna Shoprite Square","Company Owned","2303 Nott Street East, Sunset Plaza","Niskayuna","NY","US","12309","5183771028","GMT-05:00 America/New_York",-73.89,42.82
+"Starbucks","16421-157664","North Babylon","Company Owned","1238 Deer Park Ave","North Babylon","NY","US","117033109","631-667-1647","GMT-05:00 America/New_York",-73.32,40.74
+"Starbucks","13587-107917","North Merrick","Company Owned","1713 Merrick Avenue, Crescent Bay Shopping Center","North Merrick","NY","US","115662719","516-771-1904","GMT-05:00 America/New_York",-73.56,40.68
+"Starbucks","10283-100401","Northport Village","Company Owned","832A Fort Salonga Road","Northport","NY","US","117682276","631-754-0840","GMT-05:00 America/New_York",-73.33,40.9
+"Starbucks","7449-6007","Nyack","Company Owned","80 Main Street","Nyack","NY","US","109603131","845-353-4069","GMT-05:00 America/New_York",-73.92,41.09
+"Starbucks","7503-7287","Bohemia","Company Owned","4577 Sunrise Highway, The Sands Shopping Center","Oakdale","NY","US","117164605","631-218-3179","GMT-05:00 America/New_York",-73.12,40.75
+"Starbucks","7248-839","The Sands (Oceanside)","Company Owned","3549A Long Beach Road","Oceanside","NY","US","115725700","(516) 536-4363","GMT-05:00 America/New_York",-73.64,40.62
+"Starbucks","25937-242946","Oceanside-Long Beach Rd.","Company Owned","2755 Long Beach Rd.","Oceanside","NY","US","11572","5169651816","GMT-05:00 America/New_York",-73.64,40.64
+"Starbucks","5032-141554","SUNY Oneonta","Licensed","108 Ravine Pkwy, Hunt Student Union","Oneonta","NY","US","138202625","6074363222","GMT-05:00 America/New_York",-75.06,42.47
+"Starbucks","76961-121685","Target Orchard Park T-1057.","Licensed","5622 Amanda Ln","Orchard Park","NY","US","141271555","716-821-9511","GMT-05:00 America/New_York",-78.78,42.79
+"Starbucks","2879-90761","Ossining","Company Owned","216 South Highland Avenue, Waverly Plaza","Ossining","NY","US","105626102","914-923-0279","GMT-05:00 America/New_York",-73.86,41.14
+"Starbucks","13631-107780","Patchogue, Waverly Plaza","Company Owned","371 North Service Rd","Patchogue","NY","US","117721905","631-207-2102","GMT-05:00 America/New_York",-73.03,40.78
+"Starbucks","49579-267874","Acme - Patterson #1063","Licensed","3101 Route 22","Patterson","NY","US","12563","8458782044","GMT-05:00 America/New_York",-73.59,41.52
+"Starbucks","75713-95585","NY Thruway Pattersonville Travel Pl","Licensed","Milepost 168 W","Pattersonville","NY","US","12137","","GMT-05:00 America/New_York",-74.13,42.85
+"Starbucks","7609-27810","Penfield","Company Owned","1806 Penfield Road","Penfield","NY","US","145262106","585-383-0250","GMT-05:00 America/New_York",-77.48,43.13
+"Starbucks","7294-1052","Pittsford","Company Owned","5 State Street","Pittsford","NY","US","145342027","585-586-8290","GMT-05:00 America/New_York",-77.51,43.09
+"Starbucks","842-2053","Plainview Centre","Company Owned","399 South Oyster Bay Road","Plainview","NY","US","118033333","516-932-5071","GMT-05:00 America/New_York",-73.5,40.78
+"Starbucks","75891-103958","NY Plattekill Travel Plaza","Licensed","Mile Post 65N","Plattekill","NY","US","12568","845-564-5160","GMT-05:00 America/New_York",-74.08,41.62
+"Starbucks","76962-137529","Target Plattsburgh T-2459","Licensed","60 Smithfield Blvd","Plattsburg","NY","US","129012104","518-247-4961","GMT-05:00 America/New_York",-73.49,44.7
+"Starbucks","10610-101308","Plattsburgh, Cornelia St.","Company Owned","359 Cornelia Street","Plattsburgh","NY","US","129012211","518-566-8142","GMT-05:00 America/New_York",-73.48,44.7
+"Starbucks","11855-104411","Pleasantville, Memorial Plaza","Company Owned","42 Memorial Plaza","Pleasantville","NY","US","105702943","914-769-1020","GMT-05:00 America/New_York",-73.79,41.13
+"Starbucks","8795-86240","Rye Brook","Company Owned","118 S. Ridge Street","Port Chester","NY","US","105732825","914-937-1597","GMT-05:00 America/New_York",-73.68,41
+"Starbucks","7210-551","Port Jefferson","Company Owned","201 Main Street, Unit C","Port Jefferson","NY","US","117771696","631-476-3791","GMT-05:00 America/New_York",-73.07,40.95
+"Starbucks","72573-104042","Stop & Shop-Port Washington #546","Licensed","65 Shore Road","Port Washington","NY","US","110502227","516-767-6912","GMT-05:00 America/New_York",-73.7,40.84
+"Starbucks","7203-550","Port Washington","Company Owned","72 Main Street","Port Washington","NY","US","110502821","(516) 944-5082","GMT-05:00 America/New_York",-73.69,40.83
+"Starbucks","7889-24827","Poughkeepsie, South Road","Company Owned","2519 South Road (Rte 9), B","Poughkeepsie","NY","US","12601","845-462-5480","GMT-05:00 America/New_York",-73.93,41.66
+"Starbucks","7936-95790","Arlington Square, Route 44","Company Owned","712 Duchess Tpke, Mid-Hudson Shopping Center","Poughkeepsie","NY","US","126036424","845-485-6294","GMT-05:00 America/New_York",-73.88,41.7
+"Starbucks","7705-20440","Mid Hudson Center","Company Owned","3434 North Road, Poughkeepsie Galleria","Poughkeepsie","NY","US","126011100","845-575-6736","GMT-05:00 America/New_York",-73.93,41.72
+"Teavana","28217-250109","Teavana - Poughkeepsie Galleria","Company Owned","2001 South Rd., #C114","Poughkeepsie","NY","US","12601","845-298-0176","GMT-05:00 America/New_York",-73.92,41.63
+"Starbucks","78076-110824","SUNY-Purchase-Fort Awesome","Licensed","735 Anderson Hill Road","Purchase","NY","US","105771402","","GMT-05:00 America/New_York",-73.7,41.05
+"Starbucks","76357-93244","Target Queensbury T-1830","Licensed","578 Aviation Rd","Queensbury","NY","US","128041814","518-792-6016","GMT-05:00 America/New_York",-73.68,43.33
+"Starbucks","9529-96687","Queensbury","Company Owned","607 Aviation Rd","Queensbury","NY","US","128041842","518-761-1284","GMT-05:00 America/New_York",-73.67,43.33
+"Starbucks","22716-223428","92-77 Queens Blvd","Company Owned","92-77 Queens Blvd","Rego Park","NY","US","11374","3479972496","GMT-05:00 America/New_York",-73.87,40.73
+"Starbucks","24165-236144","95-17 63rd Drive","Company Owned","95-17 63rd Drive","Rego Park","NY","US","11374","347-757-0261","GMT-05:00 America/New_York",-73.86,40.73
+"Starbucks","10513-100481","North Greenbush Road","Company Owned","599 N Greenbush Rd.","Rensselaer","NY","US","121449512","518-286-3153","GMT-05:00 America/New_York",-73.7,42.65
+"Starbucks","23676-138166","Tops Markets - Rhinebeck #531","Licensed","6734 US-9","Rhinebeck","NY","US","12572","845-876-7800","GMT-05:00 America/New_York",-73.9,41.95
+"Starbucks","21514-211004","132-40 Metropolitan Ave","Company Owned","132-40 Metropolitan Ave","Richmond Hill","NY","US","11415","718-262-8691","GMT-05:00 America/New_York",-73.82,40.7
+"Starbucks","25040-239644","329 Wyckoff Ave.","Company Owned","329 Wyckoff Ave., Tanger Outlet Center II","Ridgewood","NY","US","11385","3476685736","GMT-05:00 America/New_York",-73.91,40.7
+"Starbucks","10167-99943","Riverhead, Tanger","Company Owned","1770 West Main Street, Suite 1400","Riverhead","NY","US","119017407","6317277015","GMT-05:00 America/New_York",-72.71,40.92
+"Starbucks","18624-187364","Riverhead S/C - Cty Rd 58","Company Owned","1755 Old County Rd","Riverhead","NY","US","11901","(631) 727-0821","GMT-05:00 America/New_York",-72.7,40.92
+"Starbucks","20877-208284","Target Riverhead T-1818","Licensed","1150 Old Country Rd, Westgate Plaza","Riverhead","NY","US","11901","631-208-9424","GMT-05:00 America/New_York",-72.68,40.93
+"Starbucks","14142-113644","Westgate Plaza","Company Owned","2110 Chili Ave.","Rochester","NY","US","146243452","585-426-2290","GMT-05:00 America/New_York",-77.69,43.13
+"Starbucks","7345-798","Monroe Avenue, Rochester","Company Owned","680 Monroe Avenue, The Marketplace Mall","Rochester","NY","US","146073147","(585)-244-4545","GMT-05:00 America/New_York",-77.59,43.14
+"Starbucks","10972-102907","The Marketplace Mall","Company Owned","1 Miracle Mile Drive, KIO13","Rochester","NY","US","146235851","585-427-2370","GMT-05:00 America/New_York",-77.63,43.08
+"Starbucks","7380-220964","Irondeqouit Ridge Goodman Plaza","Company Owned","1455 East Ridge Road, Clover Commons","Rochester","NY","US","14621","5853421460","GMT-05:00 America/New_York",-77.58,43.2
+"Starbucks","7657-32499","Clover Commons","Company Owned","2900 Monroe Avenue","Rochester","NY","US","146184602","585-381-2140","GMT-05:00 America/New_York",-77.55,43.11
+"Starbucks","3869-141270","Target Chili T-2528","Licensed","3181 Chili Ave","Rochester","NY","US","146245409","(585) 571-3979","GMT-05:00 America/New_York",-77.75,43.11
+"Starbucks","75458-107451","University of Rochester","Licensed","University of Rochester 201 Wilson Commo","Rochester","NY","US","14627","585-276-4070","GMT-05:00 America/New_York",-77.63,43.13
+"Starbucks","7310-169926","Mount Hope Avenue","Company Owned","1394 Mount Hope Avenue","Rochester","NY","US","146203911","5852717330","GMT-05:00 America/New_York",-77.62,43.12
+"Starbucks","7494-8547","Rockville Center","Company Owned","21 North Park Ave","Rockville Center","NY","US","115705224","516-536-5318","GMT-05:00 America/New_York",-73.65,40.66
+"Starbucks","75901-97856","ISP - Islip Gate 4 SW Terminal","Licensed","100 Arrival Ave, CVS Plaza","Ronkonkoma","NY","US","117797389","631-285-7684","GMT-05:00 America/New_York",-73.1,40.79
+"Starbucks","7543-3408","Roslyn Heights","Company Owned","373 Willis Avenue","Roslyn Heights","NY","US","115772321","516-625-7390","GMT-05:00 America/New_York",-73.65,40.78
+"Starbucks","75892-103960","NY Ulster Travel Plaza","Licensed","New York State Thruway Mile Post 96 Sout","Ruby","NY","US","12475","845-336-8129","GMT-05:00 America/New_York",-74.01,42.02
+"Starbucks","813-2013","Rye","Company Owned","51 Purchase Street","Rye","NY","US","105803046","914-967-5827","GMT-05:00 America/New_York",-73.68,40.98
+"Starbucks","21640-208888","Price Chopper Saratoga # 158","Licensed","115 Ballston Ave","Saratoga","NY","US","12866","518-580-9172","GMT-05:00 America/New_York",-73.79,43.07
+"Starbucks","24841-229885","Price Chopper -#39 Wilton","Licensed","3045 Rt 50","Saratoga Springs","NY","US","12866","5185837551","GMT-05:00 America/New_York",-73.74,43.1
+"Starbucks","19914-202828","Target Saratoga Springs T-1271","Licensed","3030 Route 50","Saratoga Springs","NY","US","12866","518-226-0003","GMT-05:00 America/New_York",-73.75,43.1
+"Starbucks","7351-1334","Saratoga Springs","Company Owned","351 Broadway","Saratoga Springs","NY","US","128663111","518-581-9498","GMT-05:00 America/New_York",-73.79,43.08
+"Starbucks","7447-6426","Sayville","Company Owned","59 Main Street","Sayville","NY","US","117822501","631-244-8983","GMT-05:00 America/New_York",-73.08,40.74
+"Starbucks","23497-218704","Target Sayville T-2847","Licensed","5750 Sunrise Hwy","Sayville","NY","US","11782","631-319-4212","GMT-05:00 America/New_York",-73.07,40.79
+"Starbucks","7303-1250","Vernon Hills Shopping Center","Company Owned","684 White Plains Road","Scarsdale","NY","US","10583","(914) 472-1313","GMT-05:00 America/New_York",-73.81,40.97
+"Starbucks","2789-82921","Downtown Scarsdale","Company Owned","51 East Parkway","Scarsdale","NY","US","105834155","914-722-2569","GMT-05:00 America/New_York",-73.81,40.99
+"Starbucks","7225-549","Scarsdale Central Park Ave","Company Owned","975B Central Park Avenue","Scarsdale","NY","US","105833211","(914) 472-2259","GMT-05:00 America/New_York",-73.82,40.99
+"Starbucks","10397-99993","Schenectady, Watt St.","Company Owned","2441 Watt Street","Schenectady","NY","US","123043313","518-347-1716","GMT-05:00 America/New_York",-73.91,42.78
+"Starbucks","24891-229886","Price Chopper - Scotia #38","Licensed","290 Saratoga Rd","Scotia","NY","US","12302","518-399-4011","GMT-05:00 America/New_York",-73.93,42.87
+"Starbucks","7528-14030","Selden","Company Owned","1251 Middle Country Road","Selden","NY","US","117842523","631-696-4762","GMT-05:00 America/New_York",-73.06,40.86
+"Starbucks","7432-2586","East Setauket","Company Owned","246 Route 25-A","Setauket","NY","US","117332885","631-941-0446","GMT-05:00 America/New_York",-73.11,40.94
+"Starbucks","79349-94513","Price Chopper - Slingerlands #159","Licensed","1395 New Scotland Rd","Slingerlands","NY","US","121597206","518-478-0688","GMT-05:00 America/New_York",-73.86,42.64
+"Starbucks","72437-5061","Sloatsburg Travel Plaza","Licensed","MM-33 N","Sloatsburg","NY","US","10974","845-753-2701","GMT-05:00 America/New_York",-74.19,41.15
+"Starbucks","7411-1582","Smithtown","Company Owned","1 Miller Place","Smithtown","NY","US","117873629","631-265-1960","GMT-05:00 America/New_York",-73.19,40.86
+"Starbucks","79407-104050","Stop & Shop-Somers #513","Licensed","80 Birdsell Road","Somers","NY","US","10589","914-628-5602","GMT-05:00 America/New_York",-73.7,41.33
+"Starbucks","22814-225084","Southampton, NY","Company Owned","29 Hampton Rd","Southampton","NY","US","11968","6314610246","GMT-05:00 America/New_York",-72.39,40.89
+"Starbucks","76557-90426","Target Staten Island T-2006","Licensed","2900 Veterans Rd W","Staten Island","NY","US","103092502","718-701-6206","GMT-05:00 America/New_York",-74.23,40.53
+"Starbucks","19642-201004","Target Staten Island T-2753","Licensed","2873 Richmond Ave","Staten Island","NY","US","10314","917-791-5851","GMT-05:00 America/New_York",-74.17,40.58
+"Starbucks","7207-707","2530 Hylan Blvd","Company Owned","2530 Hylan Blvd","Staten Island","NY","US","103064338","718-979-8608","GMT-05:00 America/New_York",-74.11,40.57
+"Starbucks","79489-98105","Stop & Shop-Staten Island #581","Licensed","2754 Hylan Blvd","Staten Island","NY","US","103064658","718-980-0892","GMT-05:00 America/New_York",-74.11,40.56
+"Starbucks","7888-82364","Forest Ave & Bard Ave","Company Owned","480 Forest Ave","Staten Island","NY","US","103102521","718-273-5984","GMT-05:00 America/New_York",-74.11,40.63
+"Starbucks","29398-253346","Woodrow Shopping Plaza","Company Owned","1243 Woodrow Rd., 306, Staten Island Mall","Staten Island","NY","US","10312","9293210457","GMT-05:00 America/New_York",-74.21,40.54
+"Teavana","28370-249951","Teavana - Staten Island Mall","Company Owned","2655 Richmond Ave., #1075","Staten Island","NY","US","10314","718-477-1033","GMT-05:00 America/New_York",-74.17,40.58
+"Starbucks","7362-1506","2505 Richmond Avenue","Company Owned","2505 Richmond Avenue, Richmond Valley Plaza","Staten Island","NY","US","103145867","(718) 494-4451","GMT-05:00 America/New_York",-74.17,40.59
+"Starbucks","19195-193084","106 Page Avenue","Company Owned","106 Page Avenue","Staten Island","NY","US","10309","718-356-1090","GMT-05:00 America/New_York",-74.24,40.52
+"Starbucks","7923-95788","Victory Blvd & Bradley Ave","Company Owned","2070 Victory Blvd","Staten Island","NY","US","103143540","718-982-0167","GMT-05:00 America/New_York",-74.13,40.61
+"Starbucks","70319-125885","SUNY Stony Brook University Hospita","Licensed","101 Nicholls Rd","Stony Brook","NY","US","11794","631-444-7356","GMT-05:00 America/New_York",-73.12,40.91
+"Starbucks","18747-187524","SUNY Stony Brook Roth Cafe","Licensed","250 Student Union Bldg., 1st Floor, Coventry Commons","Stony Brook","NY","US","11794","","GMT-05:00 America/New_York",-73.12,40.91
+"Starbucks","7635-23767","Stony Brook (347)","Company Owned","1320 Stony Brook Road","Stony Brook","NY","US","117902206","631-689-1762","GMT-05:00 America/New_York",-73.12,40.88
+"Starbucks","48822-264864","Sodexo @ Stony Brook U Mobile Truck","Licensed","ROTH CAFE BUILDING, Airmont Village Square","STONY BROOK","NY","US","11794","","GMT-05:00 America/New_York",-73.13,40.91
+"Starbucks","7429-802","Suffern","Company Owned","215 Route 59","Suffern","NY","US","109015203","845-369-6959","GMT-05:00 America/New_York",-74.11,41.11
+"Starbucks","11370-105177","46-09 Queens Blvd","Company Owned","46-09 Queens Blvd.","Sunnyside","NY","US","111041711","718-472-5215","GMT-05:00 America/New_York",-73.92,40.74
+"Starbucks","7728-62680","Syosset- South Oyster Bay","Company Owned","390 Jericho Turnpike, Unit B","Syosset","NY","US","117914548","516-364-0357","GMT-05:00 America/New_York",-73.5,40.81
+"Starbucks","25229-94533","Price Chopper-Syracuse #172","Licensed","2515 Erie Blvd","Syracuse","NY","US","13224","315-449-2314","GMT-05:00 America/New_York",-76.1,43.05
+"Starbucks","18559-163024","Syracuse University, Campus West Ho","Licensed","150 Henry Street, Campus West Housing","Syracuse","NY","US","13244","315-443-2216","GMT-05:00 America/New_York",-76.14,43.04
+"Starbucks","11424-105354","Destiny USA","Company Owned","9737 Carousel Ctr","Syracuse","NY","US","132909681","315-473-9709","GMT-05:00 America/New_York",-76.17,43.07
+"Starbucks","9720-97999","Armory Square","Company Owned","290 W. Jefferson Street, Carousel Mall","Syracuse","NY","US","132022335","315-476-8415","GMT-05:00 America/New_York",-76.16,43.05
+"Teavana","28518-249820","Teavana - Carousel Mall","Company Owned","9090 Destiny USA Drive, #F202","SYRACUSE","NY","US","13290","315-422-2875","GMT-05:00 America/New_York",-76.17,43.07
+"Starbucks","7532-10835","Marshall Street at Syracuse","Company Owned","177 Marshall Street","Syracuse","NY","US","132101716","315-474-2863","GMT-05:00 America/New_York",-76.13,43.04
+"Starbucks","76839-111891","Target Camillus (Syracuse) T-2324","Licensed","3657 W Genesee St","Syracuse","NY","US","132192003","315-233-0600","GMT-05:00 America/New_York",-76.24,43.05
+"Starbucks","24606-238409","Hudson River Commons, Troy","Company Owned","120 Hoosick Street, Tuckahoe Train Station","Troy","NY","US","12180","5184142364","GMT-05:00 America/New_York",-73.68,42.74
+"Starbucks","10464-100067","Tuckahoe Train Station","Company Owned","1 Depot Square","Tuckahoe","NY","US","107074003","914-793-0746","GMT-05:00 America/New_York",-73.83,40.95
+"Starbucks","7247-758","Uniondale","Company Owned","1228 Hempstead Turnpike","Uniondale","NY","US","115531245","(516) 565-9886","GMT-05:00 America/New_York",-73.59,40.72
+"Starbucks","22634-214867","Green Acres Mall","Company Owned","2034 Sunrise Highway","Valley Stream","NY","US","11581","5165993435","GMT-05:00 America/New_York",-73.72,40.66
+"Starbucks","18578-192502","Target Valley Stream T-2840","Licensed","500 W. Sunrise Hwy","Valley Stream","NY","US","11581","516-568-9264","GMT-05:00 America/New_York",-73.72,40.66
+"Starbucks","76776-108125","Target Binghampton/Vestal T-1056","Licensed","3112 Vestal Pkwy E","Vestal","NY","US","138502034","607-729-6611","GMT-05:00 America/New_York",-76,42.09
+"Starbucks","13263-106974","Vestal Parkway East","Company Owned","4706 Vestal Parkway East, Pier One Shopping Centre","Vestal","NY","US","138503708","607-797-1208","GMT-05:00 America/New_York",-75.95,42.09
+"Starbucks","7656-31579","Vestal Parkway","Company Owned","2540 Vestal Parkway","Vestal","NY","US","13850","607-797-0846","GMT-05:00 America/New_York",-76.01,42.09
+"Starbucks","7710-39860","Victor","Company Owned","200 High Point Drive, Eastview Mall","Victor","NY","US","145641060","585-223-0240","GMT-05:00 America/New_York",-77.44,43.03
+"Teavana","28517-249819","Teavana - Eastview Mall","Company Owned","7979 PITTSFORD-VICTOR RD, #149B, Eastview Mall","VICTOR","NY","US","14564","585-223-3230","GMT-05:00 America/New_York",-77.45,43.04
+"Starbucks","9277-95484","Eastview Mall","Company Owned","7979 Pittsford-Victor Road","Victor","NY","US","14564","585-425-0051","GMT-05:00 America/New_York",-77.44,43.03
+"Starbucks","73747-107559","Stop & Shop-W. Hempstead #2552","Licensed","420 Hempstead Turnpike, Willow Wood Shoppes","W. Hempstead","NY","US","115521340","","GMT-05:00 America/New_York",-73.65,40.71
+"Starbucks","16303-158164","Wantagh","Company Owned","1143 Wantagh Avenue","Wantagh","NY","US","117932135","5167811538","GMT-05:00 America/New_York",-73.51,40.69
+"Starbucks","76748-106267","Target Watertown T-2253","Licensed","21855 Towne Center Dr","Watertown","NY","US","136015898","315-786-2540","GMT-05:00 America/New_York",-75.96,43.97
+"Starbucks","10609-101494","Watertown, NY","Company Owned","1242 Arsenal Street, Webster Plaza","Watertown","NY","US","136012214","315-779-9029","GMT-05:00 America/New_York",-75.95,43.98
+"Starbucks","11540-103906","Webster, Hard & Ridge","Company Owned","944 Hard Road, Suite A","Webster","NY","US","145808995","585-872-0250","GMT-05:00 America/New_York",-77.46,43.21
+"Starbucks","76411-96651","Target Webster T-2038","Licensed","1050 Ridge Rd","Webster","NY","US","145802908","585-216-3000","GMT-05:00 America/New_York",-77.45,43.21
+"Starbucks","9846-98601","West Babylon","Company Owned","519 Montauk Highway","West Babylon","NY","US","117048308","631-669-3451","GMT-05:00 America/New_York",-73.34,40.69
+"Starbucks","76465-97548","Target Clarkstown/West Nyack T-1083","Licensed","4120 Palisades Ctr Dr, Palisades Centre","West Nyack","NY","US","109946801","845-348-6440","GMT-05:00 America/New_York",-73.95,41.1
+"Teavana","28449-249970","Teavana - Palisades Centre","Company Owned","1000 Palisades Center Dr., #C200, Palisade Center Mall","West Nyack","NY","US","10994","845-353-2497","GMT-05:00 America/New_York",-73.96,41.1
+"Starbucks","11588-153124","Palisades Center Level 2","Company Owned","3530 PALISADES CENTER DR, G202","West Nyack","NY","US","109946605","845-727-7278","GMT-05:00 America/New_York",-73.96,41.1
+"Starbucks","20389-197044","West Point Military Academy","Licensed","683  Buckner Loop","West Point","NY","US","10996","","GMT-05:00 America/New_York",-73.97,41.4
+"Starbucks","76428-97523","Target Westbury T-1139","Licensed","999 Corporate Dr","Westbury","NY","US","115906614","516-222-1003","GMT-05:00 America/New_York",-73.6,40.74
+"Starbucks","7624-31063","The Village of Westbury","Company Owned","379 Glen Cove Road","Westbury","NY","US","115901058","(516) 877-7222","GMT-05:00 America/New_York",-73.62,40.76
+"Starbucks","7509-9876","Westbury, Old Country Rd","Company Owned","1149 Old Country Road","Westbury","NY","US","115905600","516-338-8711","GMT-05:00 America/New_York",-73.55,40.76
+"Starbucks","75890-103957","NY Oneida Travel Plaza","Licensed","5365 State Rt 233 Mile Post 244E, Westchester Mall","westmoreland","NY","US","13490","315-853-3605","GMT-05:00 America/New_York",-75.4,43.12
+"Teavana","28353-249794","Teavana - Westchester Mall","Company Owned","125 WESTCHESTER AVE, STE 3820A","WHITE PLAINS","NY","US","10601","914-328-3425","GMT-05:00 America/New_York",-73.76,41.03
+"Starbucks","3466-94078","White Plains Renaissance Plaza","Company Owned","200 Main Street, The Westchester","White Plains","NY","US","106013203","914-682-1738","GMT-05:00 America/New_York",-73.77,41.03
+"Starbucks","9662-91067","Westchester Mall Level 3","Company Owned","125 Westchester Avenue, Triangle Plaza One","White Plains","NY","US","106014522","9149492478","GMT-05:00 America/New_York",-73.76,41.03
+"Starbucks","7559-6652","138-11 20th Avenue","Company Owned","138-11 20th Avenue, Eastview Plaza","Whitestone","NY","US","113562451","718-539-4072","GMT-05:00 America/New_York",-73.83,40.78
+"Starbucks","7337-1047","Eastview Plaza","Company Owned","8250 Transit Rd.","Williamsville","NY","US","142212820","(716) 636-4863","GMT-05:00 America/New_York",-78.7,42.99
+"Starbucks","7340-1326","Williamsville, Main Street","Company Owned","5429 Main Street, Woodbury Village","Williamsville","NY","US","142216647","(716) 633-4387","GMT-05:00 America/New_York",-78.75,42.96
+"Starbucks","7220-158624","Woodbury  Village","Company Owned","7963 Jericho Turnpike","Woodbury","NY","US","117971210","5169212878","GMT-05:00 America/New_York",-73.48,40.82
+"Starbucks","7910-87753","Tower Square Shopping Center","Company Owned","51-06 Northern Blvd","Woodside","NY","US","113771733","718-424-3716","GMT-05:00 America/New_York",-73.91,40.75
+"Starbucks","23602-230606","Ridge Hill Shopping Center","Company Owned","1 Ridge Hill Blvd, 1110","Yonkers","NY","US","10710","9149650170","GMT-05:00 America/New_York",-73.86,40.97
+"Starbucks","25330-231726","Macys Cross County","Licensed","800 Central Park Av, Westchester Ridge HIll","Yonkers","NY","US","10704-100","914-964-6680","GMT-05:00 America/New_York",-73.86,40.93
+"Teavana","28235-250120","Teavana - Westchester Ridge HIll","Company Owned","117 Market St., Cross County Shopping Center","Yonkers","NY","US","10710","914-963-8670","GMT-05:00 America/New_York",-73.86,40.96
+"Starbucks","13632-105641","Cross County Shopping Center","Company Owned","8000 Mall Walk, Space 7080","Yonkers","NY","US","107041006","3479312521","GMT-05:00 America/New_York",-73.85,40.93
+"Starbucks","14369-115444","Yonkers, Bronx River Road","Company Owned","841-851 Bronx River Road","Yonkers","NY","US","107087058","914-237-3681","GMT-05:00 America/New_York",-73.84,40.93
+"Starbucks","7901-67260","Yonkers","Company Owned","2458 Central Park Avenue","Yonkers","NY","US","107101125","914-337-0139","GMT-05:00 America/New_York",-73.83,40.98
+"Starbucks","7504-7590","Yorktown","Company Owned","1932 Commerce Street, U of Akron Student Union","Yorktown Heights","NY","US","105984410","914-243-5997","GMT-05:00 America/New_York",-73.78,41.27
