@@ -7,7 +7,9 @@
   <li>There are many factors influencing the decision on location selection. The location selection criteria in this app are limited. However, new factors can be added and updated if more related data are available.</li></ul>
 </p>
 
-<p> Click to see the <a href:"https://maybeshewillx7.shinyapps.io/starbuckslocation/#">app</a>.</p>
+<img src="starbucks.png">
+
+<p> Click to see the <a href="https://maybeshewillx7.shinyapps.io/starbuckslocation/#">app</a>.</p>
 
 <p><b>Data Source:</b> Kaggle Starbucks location data, Yelp data, NYC open data</p>
 
